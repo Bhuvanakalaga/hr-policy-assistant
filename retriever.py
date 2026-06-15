@@ -101,19 +101,20 @@ def load_vector_store():
 def search_policy_chunks(
     query: str,
     k: int = 4
-)-> str:
+) -> str:
     """
-    Search the FAISS index for the top-k chunks relevant to `query`.
+    Search the FAISS index using Max Marginal Relevance (MMR).
 
-    Returns a single string with all matching chunks joined by separators,
-    ready to be included in an LLM prompt.
+    MMR improves retrieval diversity by avoiding multiple nearly-identical
+    chunks and returning a broader set of relevant policy sections.
     """
 
     vector_store = load_vector_store()
 
-    docs = vector_store.similarity_search(
-        query,
-        k=k
+    docs = vector_store.max_marginal_relevance_search(
+        query=query,
+        k=k,
+        fetch_k=10
     )
 
     if not docs:

@@ -22,3 +22,7 @@ python-dotenv>=1.0.0
 
 # Utilities
 tiktoken>=0.7.0
+
+torch==2.7.1
+torchvision==0.22.1
+transformers==4.53.0

@@ -26,6 +26,32 @@ def _get_current_employee_id() -> str:
     return _current_employee_id
 
 
+# Pending action state (simple session-based confirmation tracking)
+#
+# Used so confirmation ("yes" / "ok" / "proceed" / "go ahead") reliably
+# triggers the correct create_hr_ticket / create_grievance call without
+# relying solely on the LLM remembering what it asked. Keyed by employee_id.
+#
+# Each pending action is: {"type": "ticket" | "grievance", "issue": str}
+
+_pending_actions: dict[str, dict] = {}
+
+
+def set_pending_action(emp_id: str, action_type: str, issue: str) -> None:
+    """Record a pending action ('ticket' or 'grievance') awaiting confirmation."""
+    _pending_actions[emp_id.upper().strip()] = {"type": action_type, "issue": issue}
+
+
+def get_pending_action(emp_id: str) -> dict | None:
+    """Return the pending action for emp_id, or None if there isn't one."""
+    return _pending_actions.get(emp_id.upper().strip())
+
+
+def clear_pending_action(emp_id: str) -> None:
+    """Clear any pending action for emp_id."""
+    _pending_actions.pop(emp_id.upper().strip(), None)
+
+
 # 1. search_policy
 
 @tool
@@ -126,7 +152,18 @@ def create_hr_ticket(issue: str) -> str:
     Input: a description of the employee's support request.
     """
     emp_id = _get_current_employee_id()
+
+    is_duplicate, dup_message = employee_db.check_duplicate_ticket(emp_id, issue)
+    if is_duplicate:
+        clear_pending_action(emp_id)
+        return (
+            f"I can't create a new ticket for this. {dup_message} "
+            f"Please wait for that ticket to be resolved, or let me know "
+            f"if this is a different issue."
+        )
+
     result = employee_db.create_ticket(emp_id, issue)
+    clear_pending_action(emp_id)
     return (
         f"HR Support Ticket Created\n\n"
         f"Ticket ID    : {result['ticket_id']}\n"
@@ -212,7 +249,18 @@ def create_grievance(issue: str) -> str:
     Input: a description of the grievance or complaint.
     """
     emp_id = _get_current_employee_id()
+
+    is_duplicate, dup_message = employee_db.check_duplicate_grievance(emp_id, issue)
+    if is_duplicate:
+        clear_pending_action(emp_id)
+        return (
+            f"I can't escalate this as a new grievance. {dup_message} "
+            f"It is already being handled. Please let me know if this is a "
+            f"different matter."
+        )
+
     result = employee_db.create_grievance_record(emp_id, issue)
+    clear_pending_action(emp_id)
     return (
         f"Formal HR Grievance Escalated\n\n"
         f"Case ID      : {result['case_id']}\n"
@@ -274,8 +322,38 @@ def create_leave_request(start_date: str, end_date: str, reason: str, leave_type
     - reason: brief reason for the leave
     - leave_type: type of leave, e.g. "Casual Leave", "Sick Leave",
       "Annual Leave", "Maternity Leave", "Paternity Leave" (default "Casual Leave")
+
+    This tool performs its own validation (dates, leave balance, overlapping
+    requests) BEFORE creating any record. If validation fails, NO record is
+    created and a clear message is returned - report that message to the
+    employee as-is and do not call this tool again for the same request
+    unless the employee gives new dates/details or explicitly confirms they
+    want to proceed anyway.
     """
     emp_id = _get_current_employee_id()
+
+    # 1. Validate dates (presence, format, end >= start)
+    is_valid, date_error, total_days = employee_db.validate_leave_dates(start_date, end_date)
+    if not is_valid:
+        return f"I couldn't submit this leave request: {date_error}"
+
+    # 2. Validate against available leave balance
+    balance = employee_db.get_leave_balance_days(emp_id)
+    if balance is not None and total_days > balance:
+        return (
+            f"Your available leave balance is {balance} days, but the "
+            f"requested leave is {total_days} days. This request exceeds "
+            f"your available balance, so I can't submit it. Please choose "
+            f"fewer days, or contact HR if you believe this needs special "
+            f"approval."
+        )
+
+    # 3. Check for overlapping Pending/Approved leave requests
+    has_overlap, overlap_message = employee_db.check_overlapping_leave(emp_id, start_date, end_date)
+    if has_overlap:
+        return f"I couldn't submit this leave request: {overlap_message}"
+
+    # All validations passed - create the record
     result = employee_db.create_leave_request(emp_id, start_date, end_date, reason, leave_type)
     return (
         f"Leave Request Submitted\n\n"

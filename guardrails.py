@@ -80,12 +80,40 @@ def check_input(user_input: str) -> tuple[bool, str | None]:
         - is_safe = True  -> input may proceed to the agent, blocked_response is None
         - is_safe = False -> input is blocked, blocked_response holds the message to show
     """
+
     text = user_input.strip()
 
+    # Empty input
+    if not text:
+        return False, "Please enter a valid question."
+
+    # Very long input
+    if len(text) > 500:
+        return False, (
+            "Question is too long. "
+            "Please keep it under 500 characters."
+        )
+
+    # Numbers only
+    if text.isdigit():
+        return False, (
+            "Please enter a meaningful HR-related question."
+        )
+
+    # Special characters only
+    if not re.search(r"[a-zA-Z]", text):
+        return False, (
+            "Please enter a meaningful question."
+        )
+
+    # Guardrail pattern checks
     for pattern, category in _COMPILED_PATTERNS:
+
         if pattern.search(text):
+
             if category == "unauthorized":
                 return False, UNAUTHORIZED_ACCESS_RESPONSE
+
             return False, BLOCKED_RESPONSE
 
     return True, None
