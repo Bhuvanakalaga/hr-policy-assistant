@@ -1,0 +1,1773 @@
+COMPANY HR POLICY MANUAL
+PRODUCTION KNOWLEDGE BASE FOR AI HR ASSISTANT (RAG)
+
+This document is the single, authoritative HR policy reference for the company. It covers Code of Conduct, Leave, Attendance, Work From Home, Benefits, Insurance, Reimbursements, Travel, Performance Management, Learning & Development, POSH, Ethics & Compliance, Grievance Handling, Resignation, Exit Management, Holidays, Information Security, Disciplinary Actions, Employee Verification, HR Ticketing, Employee Data & Records, Payroll, Manager Approval Matrix, and a 100+ item FAQ. Every policy below represents ONE company's official rules. There are no alternate versions, placeholders, or ambiguous statements. Each section follows a consistent structure: Purpose, Eligibility, Policy Rules, Approval Requirements, Exceptions, and Important Notes.
+
+================================================================
+SECTION 1: CODE OF CONDUCT
+================================================================
+
+PURPOSE
+To set clear expectations for ethical, professional, and respectful behaviour in the workplace, ensuring a safe, productive, and dignified environment for all employees.
+
+ELIGIBILITY
+Applies to all employees - full-time, part-time, fixed-term contract, interns, trainees, temporary, and probationary staff, regardless of location or role.
+
+POLICY RULES
+1. Respect and Dignity: Employees must treat colleagues, juniors, seniors, vendors, and clients with respect and dignity. No employee may assert power over others to intimidate or belittle them.
+
+2. Honesty and Integrity: All work must be performed with honesty and integrity. Employees must accurately and truthfully report working hours, expenses, project progress, qualifications, and achievements. Misrepresentation to the company or clients is prohibited.
+
+3. Attendance, Punctuality, and Dependability: Employees must be present and punctual on all scheduled work days and hours. Repeated absenteeism or lateness affects career advancement and can lead to disciplinary action.
+
+4. Appearance and Conduct: Employees must maintain a neat, well-groomed appearance. Business casual is the standard for in-office days. Client visits require formal attire.
+
+5. Prohibited Misconduct includes:
+- Theft or inappropriate removal/possession of company property
+- Working under the influence of alcohol or illegal drugs
+- Possession, distribution, sale, transfer, or use of alcohol or drugs at work
+- Fighting or threatening violence
+- Boisterous or disruptive activity
+- Negligence causing damage to company property
+- Insubordination or disrespectful conduct
+- Violation of safety or health rules
+- Smoking outside designated areas
+- Harassment of any kind
+- Excessive absenteeism
+- Unauthorized disclosure of confidential information
+
+6. Smoking Policy: Smoking is prohibited throughout the workplace except in designated smoking areas. Employees exercising rights under this policy are protected from retaliation.
+
+7. Drug and Alcohol Policy: Manufacture, distribution, possession, or use of illegal drugs, alcohol, or controlled substances on company premises is strictly prohibited. The company may require a medical evaluation under appropriate circumstances. Reporting to work under the influence of alcohol or illegal substances is gross misconduct and may result in immediate dismissal.
+
+8. Violence in the Workplace: Acts of violence of any kind will not be tolerated. Incidents must be reported to the Reporting Officer and/or HR immediately. All complaints will be fully investigated.
+
+9. Recording Policy: Recording conversations using any device without prior written approval from the HR Head or designated Administration Head is prohibited and may result in immediate termination.
+
+10. Professional Behaviour: Employees must meet deadlines, communicate proactively when timelines are at risk, treat colleagues and clients with courtesy, and maintain confidentiality and discretion regarding company operations, client data, and colleague information.
+
+11. Respectful Workplace - the following are unacceptable:
+- Verbal or written abuse, threats, or derogatory remarks
+- Bullying, in person or through digital communication channels
+- Exclusion or ostracism of colleagues based on personal characteristics
+- Behaviour that undermines the psychological safety of team members
+
+APPROVAL REQUIREMENTS
+- Recording of conversations requires prior written approval from the HR Head or designated Administration Head.
+- Any deviation from the standard dress code for a specific role requires written approval from the department head and HR.
+
+EXCEPTIONS
+- Smoking is permitted only in designated smoking areas.
+- Limited, non-disruptive personal use of phone/internet is permitted (see Section 17: Information Security).
+
+IMPORTANT NOTES
+- All instances of misconduct must be reported to HR immediately.
+- This list of misconduct examples is representative and not exhaustive.
+- Violations of the Code of Conduct may result in disciplinary action up to and including termination (see Section 18: Disciplinary Actions).
+
+================================================================
+SECTION 2: LEAVE POLICY
+================================================================
+
+PURPOSE
+To define the types, entitlements, accrual, and application procedures for all categories of leave, balancing employee wellbeing with business continuity.
+
+ELIGIBILITY
+Applies to all confirmed full-time employees unless otherwise specified per leave type. The leave year runs from 1 January to 31 December.
+
+POLICY RULES
+
+1. Earned Leave (EL) / Annual Leave
+- Entitlement: 18 days of Earned Leave per calendar year.
+- Accrual: 1.5 days per month, credited at the end of each month.
+- New joiners receive Earned Leave on a pro-rata basis from their date of joining.
+- During probation, employees accrue Earned Leave but may avail it only after confirmation, unless the manager grants prior approval for an exception.
+- Maximum carry-forward/accumulation: up to 30 days. Earned Leave accumulated beyond 30 days is automatically encashed at the end of the calendar year, calculated using the average Basic salary of the last 10 months.
+- Earned Leave is encashed in full at separation (resignation, termination, retirement, or contract completion), based on the average Basic salary of the last 10 months, subject to the 30-day cap.
+- During the notice period, an employee may avail Earned Leave up to 1.5 days per month.
+- Must be applied for at least 5 working days in advance through the HRMS portal, except in genuine emergencies.
+- For Earned Leave, weekends and declared holidays falling within the leave period ARE counted as leave days.
+
+2. Sick Leave / Medical Leave (ML)
+- Entitlement: 10 days of Medical Leave per calendar year, credited in advance on 1 January.
+- New joiners receive Medical Leave on a pro-rata basis for the remainder of the calendar year.
+- Maximum accumulation: up to 20 days. Medical Leave does not lapse but is capped at 20 days; it is not encashable at any time, including separation.
+- For Medical Leave exceeding 2 consecutive days, a medical certificate from a registered medical practitioner (or a hospital discharge certificate in case of hospitalization) must be submitted to HR within 3 days of returning to work.
+- Medical Leave may not be clubbed with Earned Leave without prior approval from the reporting manager and HR.
+- During probation, employees are entitled to Medical Leave on a pro-rata basis.
+- While serving the notice period, an employee may avail Medical Leave with valid medical documentation.
+- For Medical Leave, only working days are counted as leave; weekends and declared holidays within the leave period are excluded from the leave count.
+
+3. Casual Leave (CL)
+- Entitlement: 6 days of Casual Leave per calendar year, credited in two installments of 3 days each on 1 January and 1 July.
+- New joiners receive Casual Leave on a pro-rata basis for the remainder of the crediting period.
+- Casual Leave is available even during probation.
+- Casual Leave cannot be taken for more than 2 consecutive days at a time.
+- Casual Leave does not carry forward to the next year; any unused Casual Leave lapses on 31 December and is not encashable.
+- Casual Leave may not be combined or clubbed with Earned Leave.
+- Casual Leave is NOT available during the notice period after resignation.
+- For Casual Leave, only working days are counted as leave; weekends and declared holidays within the leave period are excluded.
+
+4. Maternity Leave
+- Eligibility: Female employees who have worked at least 80 days in the 12 months immediately preceding the expected delivery date.
+- Entitlement: 26 weeks of paid Maternity Leave for the first two children. Leave may begin up to 8 weeks before the expected delivery date.
+- For the third child onward, Maternity Leave is limited to 12 weeks.
+- Adoption: An employee who legally adopts a child below the age of 3 months, or a commissioning mother under a surrogacy arrangement, is entitled to 12 weeks of Maternity Leave from the date the child is handed over.
+- Miscarriage: In case of a natural miscarriage, the employee is entitled to 6 weeks of paid leave from the day of the miscarriage, upon submission of supporting medical documentation.
+- Employees must inform HR and submit medical documentation at least 8 weeks before the intended start of Maternity Leave, wherever possible.
+
+5. Paternity Leave
+- Eligibility: Male employees and adoptive fathers, for up to the first two children.
+- Entitlement: 10 days of paid Paternity Leave, to be availed within 3 months of the birth or adoption of the child.
+- Adoption Leave applies for the legal adoption of a child below the age of 5 years.
+
+6. Bereavement Leave
+- Entitlement: 5 days of paid leave for the death of an immediate family member (spouse, child, parent, sibling, or parent-in-law).
+- Entitlement: 2 days of paid leave for the death of an extended family member (grandparent or spouse's sibling).
+- Employees must inform their manager and HR at the earliest opportunity. Supporting documentation may be requested.
+
+7. Study Leave
+- Eligibility: Employees who have completed 4 years of service after confirmation.
+- Maximum duration: 2 years, granted only on the recommendation of the Department Head and approval of the Management Committee.
+- No salary is paid during Study Leave. The employee's position is held for them upon return.
+- Completing a higher qualification during Study Leave does not automatically result in promotion or designation change.
+
+8. Leave Without Pay (LWP)
+- Any non-medical leave taken after exhausting all Casual Leave and Earned Leave is treated as Leave Without Pay.
+- Medical leave taken after exhausting all Medical Leave is first adjusted against available Casual Leave and Earned Leave; once those are exhausted, it is treated as Leave Without Pay.
+- Uninformed Absence: If an employee takes leave with no communication whatsoever to the Reporting Officer, 5 days of Leave Without Pay will be charged for each uninformed day taken.
+
+9. Compensatory Off
+- Employees required to work on a weekly off day or a declared holiday are entitled to a compensatory off, to be availed within 30 days of the date worked.
+- Compensatory off accrues as one full day for working 5 or more hours, and half a day for working less than 5 hours. This applies to staff at the Assistant Manager level and below.
+
+APPROVAL REQUIREMENTS
+- Casual Leave: must be applied for at least 2 working days in advance.
+- Earned Leave: advance notice requirements are based on duration -
+  - 1 day of leave: at least 3 days advance notice
+  - 2 to 5 days of leave: at least 1 week advance notice
+  - More than 5 days of leave: at least 2 weeks advance notice
+- The reporting manager must approve or reject leave requests within 2 working days of submission.
+- If the manager is unavailable, the request automatically escalates to the next level of management (skip-level manager) for approval.
+- HR may decline or defer leave requests during critical project phases, audit periods, or when business needs require team presence, regardless of advance notice given.
+
+EXCEPTIONS
+- Emergency Sick Leave: In a genuine medical emergency, the employee must inform the Reporting Officer on the same morning via call, email, or text message; the standard advance-notice requirement is waived, but the medical certificate requirement (for leave exceeding 2 days) still applies.
+- Probation employees may avail Earned Leave before confirmation only with explicit prior manager approval.
+
+IMPORTANT NOTES
+- Leave taken without prior approval and without any notification is treated as Loss of Pay (5 days LWP per uninformed day, as described above).
+- The Reporting Officer is responsible for approving or rejecting leave requests. HR is responsible for maintaining accurate leave records in the HRMS and monitoring the system periodically.
+
+================================================================
+SECTION 3: ATTENDANCE AND WORKING HOURS
+================================================================
+
+PURPOSE
+To establish standard working days, hours, and attendance-tracking expectations.
+
+ELIGIBILITY
+Applies to all employees, including those on probation.
+
+POLICY RULES
+- Working Week: Monday to Friday (5-day work week). Saturday and Sunday are non-working days.
+- Standard Working Hours: 9:00 AM to 6:00 PM, inclusive of a 30-minute lunch break and two 10-minute short breaks, totaling 8 billable hours per day.
+- Login Time: Employees must log in by 9:15 AM at the latest.
+- Attendance Tracking: Attendance must be marked daily using the company's Attendance Management System (AMS/HRMS), whether working from the office or from home.
+- Reporting Absences: Absences must be reported to the reporting manager and HR by 9:30 AM on the day of absence, or in advance wherever possible.
+- Uninformed absence of more than 2 consecutive working days without approved leave is treated as Loss of Pay and, if persistent, may be treated as abandonment of employment, triggering disciplinary action.
+- Monthly attendance reports are reviewed by HR. Attendance below 85% in a given month (excluding approved leave) is flagged to the employee's manager for review.
+
+FLEXIBLE WORK ARRANGEMENTS
+- Flexitime: Employees may shift their start time to between 8:00 AM and 10:30 AM, with the end time adjusted to complete 8 working hours. For example, an employee starting at 10:00 AM must work until 7:00 PM.
+- Compressed Work Week: In exceptional cases with valid business justification, an employee may work longer daily hours across 4 days per week.
+
+APPROVAL REQUIREMENTS
+- Work on a weekend or declared holiday requires prior approval from the reporting manager and entitles the employee to compensatory off (see Section 2).
+- Flexitime does not require formal written approval but must be communicated to the reporting manager.
+- Compressed Work Week requires written approval from the department head and HR.
+
+EXCEPTIONS
+- Flexible work arrangements do not apply to roles requiring fixed shift coverage or client-facing responsibilities at specific hours.
+
+IMPORTANT NOTES
+- Consistent late arrivals without prior communication to the manager are treated as an attendance concern and may be addressed through the disciplinary or performance management process.
+
+================================================================
+SECTION 4: WORK FROM HOME POLICY
+================================================================
+
+PURPOSE
+To enable a hybrid work model that balances flexibility with in-office collaboration, while maintaining productivity standards.
+
+ELIGIBILITY
+- All permanent employees who have completed probation are eligible for the standard hybrid schedule.
+- Employees on probation may request Work From Home (WFH) after completing the first 60 days of employment, subject to manager approval.
+- Employees serving their notice period are NOT eligible for WFH (see Section 14: Resignation and Notice Period).
+
+POLICY RULES
+- Default Hybrid Schedule: Employees work from the office a minimum of 3 days per week (Tuesday, Wednesday, and Thursday), with Monday and Friday as remote-eligible days, unless the role requires daily office presence.
+- Monthly WFH Allowance (for roles with a daily office presence requirement): Employees in such roles are eligible for up to 2 days of WFH per month. Unused WFH days do not carry forward and lapse at the end of each month.
+- Core Hours: Employees working remotely must be available from 10:00 AM to 5:00 PM for meetings, calls, and collaboration.
+- Response Time: Employees must respond to messages and emails within 2 hours during working hours.
+- Video Meetings: Employees must attend all scheduled meetings via video with camera on, unless a technical issue prevents this.
+- Daily Logging: Employees must mark their attendance and WFH status on the HRMS portal each day and maintain daily task updates on the designated project management tool.
+
+REMOTE WORK GUIDELINES
+- Employees are responsible for a reliable internet connection and a distraction-free workspace.
+- Work must be performed from within India. Remote work from abroad requires prior written approval from HR.
+- Company data must not be accessed or stored on personal, unsecured devices. All remote access must use the company-provided VPN.
+- If a technical issue affects a WFH employee's ability to work, the employee must inform their manager immediately and explore alternatives, such as using a company laptop from a co-working space, to minimize disruption.
+
+APPROVAL REQUIREMENTS
+- The default hybrid schedule (3 days office, 2 days WFH) does not require explicit per-instance approval but must align with the team's agreed in-office days.
+- Full remote work (5 days from home) for a period longer than 1 week requires approval from both the reporting manager and HR. Such requests are evaluated case by case for reasons such as personal health, family caregiving responsibilities, or relocation.
+- Temporary full-remote arrangements of up to 2 weeks (for example, home renovation, illness recovery, or travel to a family emergency) can be approved at the manager level alone.
+- Remote work from abroad requires prior written approval from HR.
+
+EXCEPTIONS
+- Employees on probation may not avail WFH until they complete 60 days of employment.
+- Employees serving notice period have no WFH eligibility, including the monthly WFH allowance.
+
+IMPORTANT NOTES
+- Working from home does not change productivity, quality, or responsiveness standards expected of employees.
+
+================================================================
+SECTION 5: EMPLOYEE BENEFITS
+================================================================
+
+PURPOSE
+To outline the non-salary benefits provided to employees to support their wellbeing, financial security, and quality of life.
+
+ELIGIBILITY
+Varies by benefit; specified individually below. Generally applies to confirmed, permanent, full-time employees unless stated otherwise.
+
+POLICY RULES
+
+1. Salary Payment
+- Salaries are credited to the employee's registered bank account on or before the last working day of each calendar month.
+- If payday falls on a company holiday, salary is credited on the last working day prior to that holiday.
+- The salary structure includes Basic Salary, House Rent Allowance (HRA), Special Allowance, and statutory deductions (Provident Fund, Professional Tax, Income Tax/TDS).
+- Salary slips are available on the HRMS portal by the 5th of the following month.
+- If a new employee joins after the 25th of a month, their salary is processed starting from the following month's payroll cycle.
+
+2. Gratuity
+- Payable upon completion of 5 years of continuous service, in accordance with the Payment of Gratuity Act, 1972.
+- Calculated as 15 days of Basic salary (average of the last 10 months) for every completed year of service, subject to a maximum cap of Rs. 3,50,000.
+- No deduction is made from salary for gratuity; it is paid out at separation or retirement.
+
+3. Employee Advance Scheme
+- Eligibility: Confirmed employees who have completed 1 year of service after confirmation.
+- Quantum: Up to 1 month's Basic salary, interest-free.
+- Repayment: Recovered from the salary of the month following disbursement, or as otherwise agreed with Finance.
+- Only one advance is sanctioned per financial year, at management's discretion.
+
+4. Employee Pool Car / Transport Facility
+- Free pickup and drop service is provided on designated routes, coordinated through the Administration department.
+- Employees must inform HR upon joining if they wish to avail this facility.
+
+5. Wellness Facilities
+- An on-site wellness/medical bay is staffed by a nurse with regular doctor visits, providing free first-aid medicines and emergency handling.
+- Employee Assistance Programme (EAP): confidential counselling, up to 6 free sessions per year with licensed mental health professionals.
+- Gym membership reimbursement: up to Rs. 5,000 per year against valid receipts.
+- Quarterly wellness webinars on mental health, nutrition, financial planning, and ergonomics.
+- Annual health check-up at empanelled diagnostic centres, free of cost to the employee.
+
+6. Complimentary Meals
+- Freshly cooked meals and refreshments are provided free of cost at designated hours (breakfast, lunch, dinner, and evening snacks). Additional paid meal stations are also available.
+
+7. Guest House Facility
+- Employees required to stay on-site for work-related activities are entitled to free use of guest house facilities, coordinated by the Administration department.
+
+8. Employee Recognition and Rewards
+- Annual "Best Employee Award" and similar recognitions are given for exemplary performance.
+- Long-service recognition is awarded at 5-year and 10-year service milestones.
+
+9. Employee Referral Programme (ERP)
+- Referral bonus: Rs. 25,000 for a non-technical role, and Rs. 50,000 for a technical role at or above the Senior Engineer level.
+- Payment: 50% on the referred candidate's joining date, and 50% upon successful completion of the referred employee's probation period.
+- Employees of the HR and Talent Acquisition team are not eligible for referral bonuses.
+- Referrals into the referring employee's own reporting chain require HR approval before consideration.
+
+APPROVAL REQUIREMENTS
+- Employee Advance: requires management sanction.
+- Gym and wellness reimbursements: require submission of valid receipts to HR/Finance.
+- ERP referrals into the referrer's own reporting chain: require HR approval.
+
+EXCEPTIONS
+- None beyond the eligibility criteria stated for each benefit.
+
+IMPORTANT NOTES
+- Benefit programs do not constitute a promise of employment or a binding contract. The company reserves the right to amend, modify, or discontinue any benefit plan at its discretion, with reasonable notice to employees.
+
+================================================================
+SECTION 6: MEDICAL INSURANCE
+================================================================
+
+PURPOSE
+To provide health coverage for employees and eligible dependants.
+
+ELIGIBILITY
+All permanent employees are covered under the company's Group Health Insurance from Day 1 of employment.
+
+POLICY RULES
+- Group Health Insurance Coverage: Rs. 5,00,000 per employee per year.
+- The company bears 100% of the premium for the employee's individual coverage.
+- Dependant Coverage: Employees may add a spouse and up to two dependent children (below 25 years of age) to the policy. The company bears 100% of the dependant premium for spouse and two dependent children.
+- Pre-existing conditions are covered subject to the terms of the insurance policy. A policy summary and the list of network hospitals are available on the HR intranet.
+- Group Dental Insurance: Covers up to Rs. 15,000 per year for preventive, basic restorative, and major dental procedures. Orthodontic treatment is NOT covered.
+- Accident Insurance: All regular full-time employees are covered under accident insurance from their date of joining, at no cost to the employee.
+- ESIC (Employee State Insurance) Coverage: Mandatory for employees with a monthly gross salary at or below Rs. 21,000. Provides medical benefits to the employee, spouse, parents, and dependent children. Contributions are deducted from salary as per the Employee State Insurance Act, 1948, shared between employee and employer.
+
+APPROVAL REQUIREMENTS
+- Enrolment of dependants requires submission of the dependant details form (name, date of birth, gender, marital status, relationship) to HR within 30 days of the qualifying event (marriage, birth, adoption, or joining).
+- Dental insurance claims must be submitted through the insurance provider's portal within 30 days of the treatment date.
+
+EXCEPTIONS
+- Orthodontic treatment is excluded from the Group Dental Insurance plan.
+- Employees with monthly gross salary above Rs. 21,000 are not covered under ESIC but remain covered under Group Health Insurance.
+
+IMPORTANT NOTES
+- HR assists with enrolment; a Summary Plan Description and supplementary documents are provided to each employee upon joining.
+
+================================================================
+SECTION 7: REIMBURSEMENTS AND EXPENSES
+================================================================
+
+PURPOSE
+To define which expenses are reimbursable, applicable caps, and the claims process.
+
+ELIGIBILITY
+All permanent employees, unless otherwise specified per reimbursement category.
+
+POLICY RULES
+
+1. Learning and Development (L&D) Budget
+- Each permanent employee is entitled to an L&D budget of Rs. 50,000 per financial year.
+- Covers external courses, certifications, conferences, technical workshops, and relevant learning materials or books.
+- Reimbursement is processed within 15 working days of submitting the claim with valid receipts.
+- Company-funded certifications carry a 12-month retention obligation from the date of reimbursement. If the employee resigns within this period, a pro-rata recovery is made from the Full and Final settlement.
+
+2. Mobile and Internet Allowance
+- Reimbursed monthly against bills, up to the cap defined by the employee's Annual Fixed Salary band:
+  - Annual Fixed Salary up to Rs. 10,00,000: Mobile Rs. 750/month, Internet Rs. 750/month
+  - Annual Fixed Salary Rs. 10,00,000 to Rs. 20,00,000: Mobile Rs. 1,500/month, Internet Rs. 1,500/month
+  - Annual Fixed Salary above Rs. 20,00,000: Mobile Rs. 2,000/month, Internet Rs. 2,000/month
+
+3. Professional Development Allowance
+- Reimbursed monthly against bills for professionally relevant books, e-books, training, conferences, and seminars, up to the cap defined by Annual Fixed Salary band:
+  - Up to Rs. 10,00,000: Rs. 2,000/month
+  - Rs. 10,00,000 to Rs. 20,00,000: Rs. 5,000/month
+  - Above Rs. 20,00,000: Rs. 7,000/month
+- Attending any training or seminar requires prior written approval from the Reporting Officer, attached to the claim.
+
+4. Leave Travel Allowance (LTA)
+- Reimbursed monthly against bills up to the cap defined by Annual Fixed Salary band:
+  - Up to Rs. 10,00,000: Rs. 3,000/month
+  - Rs. 10,00,000 to Rs. 20,00,000: Rs. 4,000/month
+  - Above Rs. 20,00,000: Rs. 5,000/month
+- LTA covers only the actual fare/travel cost (not lodging or other expenses) for travel within India, via the shortest route, supported by original tickets or boarding passes.
+- Mode of travel: economy class airfare or 2nd Class AC train fare. If a cab is used, reimbursement is capped at the 2nd Class AC fare for that route.
+- The employee must be on Earned Leave for at least 3 continuous days to claim LTA.
+- "Family" for LTA purposes includes spouse and wholly dependent children and parents.
+- Exemption is not available for more than 2 children, including step-children and legally adopted children.
+- Tax exemption is available for 2 journeys in a block of 4 calendar years (current block: 2022-2025). If unused, the exemption carries over to the first year of the next block.
+- An employee can claim LTA reimbursement only once per calendar year, even though 2 journeys are permitted per 4-year block.
+- If actual bills are less than the declared LTA amount, the unused balance is processed (with applicable tax deduction) in the March salary.
+
+5. House Rent Allowance (HRA)
+- HRA is paid monthly at 50% of Basic salary.
+- The tax-exempt portion is the lowest of: (a) actual HRA received, (b) actual rent paid minus 10% of Basic, or (c) 40% of Basic.
+- Rent receipts must be submitted to claim the tax exemption.
+
+RULES FOR CLAIMING ALL ALLOWANCES
+- Employees must structure their allowances at the start of the financial year, or at the time of joining, and inform HR via email.
+- Bills must be in the employee's own name and must pertain to the month being claimed.
+- Claims follow the financial year and are reimbursed quarterly, after salary disbursement.
+- An employee cannot claim a separate official reimbursement for an expense category already covered under their salary structure (for example, an employee receiving the Mobile/Internet Allowance in salary cannot additionally claim official phone/internet reimbursement for the same expense).
+- Any unused/leftover allowance amount at financial year-end is paid out with the March salary and is fully taxable.
+
+CLAIM SUBMISSION PROCESS
+- A Reimbursement Declaration Form must be completed listing the intended monthly claim amount for each category: Phone & Internet, Professional Development, LTA, and Formal Attire Allowance (if applicable).
+- All claims require original bills and the duly filled reimbursement form, submitted to the Finance team.
+
+APPROVAL REQUIREMENTS
+- L&D Budget: requires prior approval from the manager and HR before spending.
+- Professional Development Allowance (training/seminar attendance): requires Reporting Officer's prior written approval.
+- All reimbursement claims require submission of original bills along with the completed reimbursement form.
+
+EXCEPTIONS
+- Orthodontic dental treatment is not reimbursable (see Section 6).
+- LTA cannot be claimed for international travel.
+
+IMPORTANT NOTES
+- Reimbursement is processed within 15 working days for L&D claims and quarterly (post salary disbursement) for tax-saving allowances.
+
+================================================================
+SECTION 8: TRAVEL POLICY
+================================================================
+
+PURPOSE
+To provide clear guidelines ensuring safe, comfortable, and cost-efficient travel for employees on official business.
+
+ELIGIBILITY
+All employees undertaking official business travel, categorized as follows:
+- A1: Chairman / Vice Chairman / Director
+- A2: Department Heads / Senior Managers and above
+- A3: All other managerial and academic staff
+- A4: Non-managerial staff
+
+POLICY RULES
+
+General Guidelines
+- Official business must be conducted ethically, in compliance with the Code of Conduct.
+- Travel plans should be finalized at least 2 weeks in advance for cost efficiency.
+- Cancellations of tickets or hotel bookings must be processed as early as possible to minimize cost.
+
+Domestic Travel Entitlements
+- Hotel (per night cap): A1 - Rs. 10,000; A2 - Rs. 7,500; A3 - Rs. 6,000; A4 - Rs. 4,000.
+- Meals: Reimbursed on actuals for all categories, for reasonable and necessary expenses.
+- Travel mode:
+  - A1: Air travel Economy Class (journeys under 6 hours) or Business Class (journeys over 6 hours).
+  - A2: Air travel Economy Class or 2nd AC Train.
+  - A3 and A4: Air travel Economy Class or 3rd AC Train.
+- Local conveyance at the destination: Taxi, for all categories.
+- Outstation local travel is reimbursed based on actual reasonable expenses.
+
+Cash Advances (Domestic)
+- Non-managerial staff (A4) may take a travel advance based on estimated destination expenses. This advance must be adjusted within 7 days of completing travel by submitting all bills; otherwise, the company will recover the advance from the employee's salary.
+- Managerial and academic staff (A1-A3) do not take advances and instead claim reimbursement after expenses are incurred.
+
+International Travel
+- Employees are eligible for Economy Class flights, booked via the company's travel desk or reimbursed on actuals.
+- Hop-over or stopover expenses resulting from flight delays are reimbursed on actuals.
+- Lodging entitlement is calculated based on nights actually spent in the foreign country (in-flight nights are excluded).
+- If an employee chooses to stay with family or friends abroad, genuine expenses with original bills may be reimbursed subject to case-by-case Director approval.
+- Travel Safety: Employees must obtain destination safety, medical, and vaccination information before travel. Immunisation costs for official travel are borne by the company on actuals.
+- If travel is booked directly by the employee, the full itinerary must be shared with the Functional Head.
+- Visa expenses are reimbursed on actuals.
+- International travel insurance is borne by the company on actuals.
+- Cash Advances: Daily allowance advances are provided based on destination and must be adjusted within 10 days of completing travel by submission of bills; otherwise, the company will recover the advance from the employee's salary.
+
+Local Conveyance (Personal Vehicle for Official Work)
+- Two-wheelers: Rs. 5.00 per km.
+- Four-wheelers (all types): Rs. 12.00 per km.
+- This rate applies to official local travel only, not the employee's regular commute to and from the office.
+- A point-to-point radio cab may be used for local official travel. A cab may be rented for half a day or a full day if this is cheaper than multiple point-to-point trips, or if multiple stops require continuous access to the same cab.
+
+Third-Party Entertainment Expenses
+- Must be kept to a minimum and informed to the reporting officer in advance.
+- Reimbursed against actuals, with Functional Head approval and a documented business purpose.
+
+APPROVAL REQUIREMENTS
+- All official travel requires written approval from the employee's Functional Head or the Director before booking.
+- Domestic travel reimbursement requires prior approval from the reporting officer; original bills and a duly filled reimbursement form must be submitted to Finance within 1 week of returning from travel.
+- International stays with family/friends require case-by-case Director approval.
+- Third-party entertainment expenses require Functional Head approval with a stated business purpose.
+
+EXCEPTIONS
+- A4 (non-managerial) employees may take cash advances; A1-A3 employees claim reimbursement only.
+
+IMPORTANT NOTES
+- Domestic travel bills must be submitted within 1 week of return; international travel advances must be adjusted within 10 days of return.
+
+================================================================
+SECTION 9: PERFORMANCE AND APPRAISAL GUIDELINES
+================================================================
+
+PURPOSE
+To establish a fair, transparent process for setting goals, evaluating performance, and determining increments, performance pay, and promotions.
+
+ELIGIBILITY
+Applies to all confirmed employees. New joiners and transferred employees follow special provisions described below.
+
+POLICY RULES
+
+Goal Setting
+- Goals are set at the start of the financial year (April), following the SMART principle (Specific, Measurable, Achievable, Relevant, Time-bound).
+- Each employee has a maximum of 5 goals, each assigned a weightage between 10% and 30%, totaling 100%.
+- HR conducts a Goal Sanctity Check once individual goals are finalized, to ensure alignment with organizational goals.
+- Goals may be revised mid-year during the Mid-Year Review cycle if business priorities shift.
+
+Performance Review Cycles
+- Mid-Year Review (October): Assesses progress against annual goals using objective data (numbers, percentages, timelines, quality checks). Ratings follow a 5-point whole-number scale; decimal ratings are not permitted.
+  Process: employee self-appraisal, followed by reporting officer review and rating, followed by a Performance Dialogue (an objective discussion citing examples and data), concluding with a final agreed rating.
+- Annual Performance Review (January): A comprehensive full-year review following the same process (self-appraisal, manager rating, Performance Dialogue). The Mid-Year and Annual ratings are combined to determine the final Annual Performance Rating. Ratings are calibrated at the department level for fairness.
+
+Performance Rating Scale (5-Point)
+- 5 - Champion: Consistently exceeds goal requirements; sets new performance standards; proactively aids team members; contributes to institution-building with strategic understanding of organizational needs.
+- 4 - Long Strider: Fulfils and often exceeds goal requirements; aids the team; occasionally contributes to institution-building; has partial understanding of organizational requirements.
+- 3 - Emerging: Meets goal requirements, occasionally exceeds expectations; occasionally helps team members; benefits from mentoring/coaching for development areas.
+- 2 - Amateur: Meets most goal requirements but sometimes falls short; needs periodic hand-holding to deliver results.
+- 1 - Pull Up: Delivers unsatisfactory performance; does not meet goal requirements most of the time; needs help with basic role requirements.
+
+Outcomes of Performance Ratings
+- Annual Increments: The 5-point rating maps to an increment percentage determined annually based on organizational performance and market conditions. Only employees rated 3 or above are eligible for increments and bonuses. Salary revisions are effective from 1 February.
+- Performance Pay: Annual variable pay is calculated as a percentage of Annual CTC based on the rating, using the following CTC bands: above Rs. 40 lakh - 12.5%; Rs. 26-40 lakh - 10%; Rs. 16-25 lakh - 7.5%; Rs. 8-15 lakh - 5%; below Rs. 7 lakh - 0%. Performance Pay is disbursed in two cycles: April and October, and is fully taxable.
+- Promotion: Based on performance rating, efficiency in the current role, and readiness for the next role.
+
+Performance Improvement Plan (PIP)
+- Employees rated 1 or 2 in the Mid-Year or Annual Review are placed on a Performance Improvement Plan.
+- Goals are redefined for the next 6 months and discussed with the employee in the presence of HR.
+- A mid-term review is conducted after 3 months to assess progress and provide further support.
+- At the end of 6 months, the employee is re-appraised against the new goals. If no improvement is shown, the employee may be asked to leave after completing the notice period, or be paid out in lieu of notice.
+- An employee rated 1 receives no increment and no performance pay for that cycle.
+
+Promotion Policy
+- Eligibility: Minimum of 18 months in the current role.
+- Eligibility: An average performance score of at least 4 out of 5 over the evaluation period.
+- Promotion recommendations are submitted by managers during the Annual Performance Review cycle and reviewed by the Level Review Committee.
+- Promotions are effective from 1 April each year.
+
+Special Cases
+- New Joiners: An employee joining mid-cycle who completes more than 6 months of service before the financial year ends is eligible for appraisal in the next cycle, on a pro-rata basis against the goals set at joining.
+- Transfers: An employee moved between functions is appraised by both reporting officers, covering the period worked under each.
+- Resignees: An employee who resigns after the Annual Appraisal Cycle is completed remains eligible for Performance Pay, paid with the Full and Final settlement, subject to a transparent handover and full policy compliance.
+- Retirees: Receive Performance Pay on the same basis as a regular employee.
+
+APPROVAL REQUIREMENTS
+- Goal weightages and the final appraisal rating require sign-off from the reporting officer following the Performance Dialogue.
+- Promotion recommendations require Level Review Committee approval.
+- A revised performance rating (via the Performance Grievance Process below) requires management approval.
+
+EXCEPTIONS
+- An employee rated 1 ("Pull Up") is excluded from increments and performance pay for that cycle and is placed on a PIP.
+
+IMPORTANT NOTES (Performance Grievance Process)
+- An employee dissatisfied with their performance rating may formally raise a grievance with HR (via email and in person) after the appraisal.
+- The grievance is referred to the relevant Function Head, who forms an independent panel.
+- The panel discusses the case with both the employee and the appraiser, documents points of conflict, and may recommend a rating change with justification.
+- HR seeks management approval for any revised rating.
+
+================================================================
+SECTION 10: LEARNING AND DEVELOPMENT
+================================================================
+
+PURPOSE
+To support employee growth through structured development plans, training budgets, and career-building opportunities.
+
+ELIGIBILITY
+All confirmed permanent employees.
+
+POLICY RULES
+- Individual Development Plans (IDPs) are created for each employee as part of the Annual Performance Review process. IDPs identify specific skills to develop, learning resources to use (including from the L&D budget), and target timelines.
+- Managers are accountable for ensuring team members get assignments that build the skills identified in their IDPs.
+- The L&D budget amount, claim process, approval requirements, and the 12-month certification retention obligation are defined in Section 7 (Reimbursements and Expenses).
+- Employees may be supported to attend national and international seminars and workshops relevant to their role, subject to the approval and expense rules in Section 8 (Travel Policy).
+
+APPROVAL REQUIREMENTS
+- L&D budget spending requires prior approval from the manager and HR (see Section 7).
+- Seminar/workshop travel requires Functional Head or Director approval (see Section 8).
+
+EXCEPTIONS
+- None.
+
+IMPORTANT NOTES
+- IDPs are reviewed during both the Mid-Year and Annual Performance Review cycles to track skill development progress.
+
+================================================================
+SECTION 11: POSH (PREVENTION OF SEXUAL HARASSMENT)
+================================================================
+
+PURPOSE
+To maintain a workplace free of gender-based discrimination and sexual harassment, in compliance with the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 and its associated Rules, 2013.
+
+ELIGIBILITY / APPLICABILITY
+Applies to all employees, temporary staff, consultants, trainees, contractors, vendors, interns, volunteers, and visitors - while on company premises, at official events (on or off premises), and in company-provided transport.
+
+POLICY RULES
+
+Key Definitions
+- Aggrieved Person: Any person (employed or not) who alleges to have been subjected to sexual harassment, including contractual or temporary employees, partners, consultants, vendors, interns, volunteers, and visitors.
+- Employee: Any person employed at the workplace on a regular, temporary, ad-hoc, or daily wage basis, with or without remuneration, including co-workers, contract workers, probationers, trainees, and apprentices.
+- Complainant: The aggrieved person, or their authorized representative if the aggrieved person is unable to file a complaint due to incapacity or death.
+- Respondent: The person against whom the complaint is made.
+- Workplace: Includes company premises, places visited during employment (including employer-provided transport or accommodation), and any social or business function where the conduct of employees, contractors, or associates may affect workplace relations.
+
+What Constitutes Sexual Harassment
+Unwelcome acts or behaviour, whether direct or implied, including:
+- Physical contact and advances
+- A demand or request for sexual favours
+- Sexually coloured remarks
+- Showing pornography
+- Any other unwelcome physical, verbal, or non-verbal conduct of a sexual nature
+
+Circumstances that may amount to sexual harassment:
+- Implied or explicit promise of preferential treatment in employment
+- Implied or explicit threat of detrimental treatment in employment
+- Implied or explicit threat about present or future employment status
+- Interference with work, or creation of an intimidating, hostile, or offensive environment
+- Humiliating treatment likely to affect health or safety
+
+Examples include (non-exhaustive): unwanted sexual advances or requests for favours, sexual jokes or innuendo (in person or via messages), verbal abuse of a sexual nature, comments about a person's body, dress, or sexual prowess, leering, catcalls, touching, insulting or obscene comments, gestures, jokes, or stories, display or circulation of sexually suggestive material (including via email or phone), objectionable physical proximity, and sexual assault.
+
+Internal Complaints Committee (ICC)
+A duly constituted ICC exists at each company location to receive and investigate complaints. The ICC includes a Chairperson, internal members, and at least one External Member, with published contact details and a dedicated complaint email address.
+
+Complaint Procedure
+1. A complaint may be made verbally, by phone, or via email, within 3 months of the incident (or the last incident in a series of incidents).
+2. The ICC may extend this filing period by up to an additional 3 months if satisfied, with written reasons recorded, that circumstances prevented earlier filing.
+3. The written complaint should include full details of the incident(s) and any supporting evidence (messages, emails, etc.).
+4. If the aggrieved person cannot file a complaint due to physical incapacity, a complaint may be filed by their relative, friend, co-worker, or any person with knowledge of the incident, with the aggrieved person's written consent.
+5. Conciliation (optional, at the complainant's request): Before initiating a formal inquiry, the ICC may attempt conciliation. No monetary settlement may form the basis of conciliation. If a settlement is reached, the ICC records it, forwards it to management for action, and provides copies to both parties. No further inquiry is conducted unless the respondent fails to comply with the settlement terms.
+6. Formal Inquiry (if conciliation is not used or fails):
+   - The ICC sends a copy of the complaint to the respondent within 7 working days.
+   - The respondent must file a reply with supporting documents and witness details within 10 working days of receiving the complaint.
+   - The inquiry follows principles of natural justice; both parties are given a reasonable opportunity to be heard with witnesses and to present documents.
+   - Where both parties are employees, each receives a copy of the findings and may make representations against them.
+   - A copy of the inquiry report is shared with both parties within 10 days of completion.
+   - The ICC may terminate or decide proceedings if either party fails to attend three consecutive hearings without sufficient cause, after 15 days' written notice.
+   - Legal practitioners are not permitted to represent either party at any stage before the ICC.
+   - A minimum of 3 ICC members, including the Presiding Officer, must be present during the inquiry.
+   - The entire complaint process, from filing to resolution, must be concluded within 90 days.
+
+Responsive Action (Post-Inquiry)
+- If the allegation is proven, recommended actions against the respondent may include: counselling, education, warning, monitoring, reprimand, withholding of promotion or pay increase, reduction of wages, demotion, reassignment, temporary suspension without pay, termination, salary deductions to compensate the complainant for trauma or medical expenses, and/or reporting the matter to the police for serious cases.
+- If the complaint is proven false or malicious, similar actions (counselling through termination, salary deductions to compensate the respondent, and/or police reporting for serious cases) may be taken against the complainant.
+- If no charges are proven and the complaint was made in good faith, no action is taken against the complainant.
+
+Rights of the Complainant During Inquiry
+- May request a transfer of themselves or the respondent, or up to 3 months of leave, subject to ICC approval.
+- May request that their performance appraisal or review be put on hold if it is being conducted or supervised by the respondent.
+
+APPROVAL REQUIREMENTS
+- Filing period extensions beyond 3 months require ICC approval with documented justification.
+- Transfer or leave requests by the complainant during inquiry require ICC approval.
+
+EXCEPTIONS
+- None. There is no exception to this policy.
+
+IMPORTANT NOTES
+- Confidentiality: The identity and details of the complainant, respondent, witnesses, inquiry process, findings, and recommendations must be kept strictly confidential and not disclosed to the public, press, or media. Breach of confidentiality can attract a penalty of Rs. 5,000.
+- Retaliation against anyone reporting harassment or participating in an investigation is strictly prohibited and is treated as a serious disciplinary offence in its own right.
+- This policy does not preclude an individual from directly informing the respondent that their behaviour is unwelcome and requesting it to stop.
+- This policy must not be used to exclude individuals of any gender or other protected characteristic from work-related social activities or discussions to avoid harassment allegations.
+- Annual POSH awareness training is mandatory for all employees.
+
+================================================================
+SECTION 12: WORKPLACE ETHICS AND COMPLIANCE
+================================================================
+
+PURPOSE
+To uphold the highest ethical standards in business dealings and prevent conflicts of interest, while ensuring legal and regulatory compliance.
+
+ELIGIBILITY
+Applies to all employees at all levels.
+
+POLICY RULES
+
+Equal Employment Opportunity
+- Recruitment, hiring, training, promotion, and compensation decisions are based solely on qualifications, skills, and performance, without regard to gender, caste, religion, nationality, age, disability, marital status, sexual orientation, or any other legally protected characteristic.
+- HR has overall responsibility for monitoring and reporting on this policy.
+
+Non-Discrimination Policy
+Discrimination - direct or indirect - is strictly prohibited, including:
+- Discriminatory remarks or behaviour in the workplace, digital channels, or company events
+- Differential treatment in evaluations, promotions, or discipline based on personal characteristics unrelated to job performance
+- Tolerating a hostile or exclusionary environment for any individual or group
+
+Discrimination is defined as verbal or physical conduct that denigrates or shows hostility or aversion toward an individual (or their relatives, friends, or associates) based on race, color, religion, national origin, age, disability, citizenship status, marital status, creed, gender, region, or beliefs, and that:
+- Results in unequal treatment compared to other team members
+- Results in partiality, favoritism, unfair compensation, career progression, or feedback
+- Creates an intimidating, hostile, or offensive work environment
+- Unreasonably interferes with an individual's work performance
+- Adversely affects employment opportunities
+
+Harassing conduct includes (non-exhaustive): nicknames, slurs, or negative stereotyping; threatening, intimidating, or hostile acts; denigrating jokes; and display or circulation (including via email) of material that denigrates or shows hostility toward an individual or group. This applies in the workplace and in any work-related setting outside it, including business trips, meetings, and social events.
+
+Differently-Abled Employees
+- No discrimination against any qualified employee or applicant based on disability or perceived disability, as long as the individual can perform the essential job functions.
+- Questions or complaints regarding this policy should be directed to HR; all such inquiries are treated confidentially to the extent legally permissible.
+
+Conflict of Interest
+a. Outside Employment
+- Employees may engage in private activities outside their employment, but must disclose them so the company can assess for conflicts.
+- Written approval from the Department Head is required before participating in any outside work activity.
+- Outside activities are disallowed if they: prevent the employee from fully performing their duties (including overtime); involve organizations doing or seeking business with the company; or violate any law or company policy.
+- Company employment is considered the employee's primary employment; conflicting outside engagements are strictly prohibited.
+
+b. Financial Interest in Other Business
+- An employee or immediate family member may not hold significant interest in a supplier, customer, or competitor, except for securities of a publicly traded company purchased on the open market.
+- A conflict of interest arises whenever an employee can influence a decision resulting in personal gain for themselves or an immediate family member (spouse/partner, children, parents, siblings) due to company business dealings.
+
+c. Acceptance of Gifts
+- No employee may solicit or accept gifts of significant value (above Rs. 2,000), lavish entertainment, or other benefits from current or potential customers, suppliers, or competitors.
+- Gifts from vendors or clients above Rs. 2,000 in value must be declared to HR and Finance.
+- Employees may entertain customers if consistent with accepted business practices, does not violate law or ethics, and would not embarrass the company if publicly disclosed.
+
+d. Solicitations and Distributions
+- Employees may not solicit other employees during working time or distribute literature in work areas at any time, nor disturb others' work for these purposes.
+- External persons may not solicit employees on company premises for any purpose.
+
+e. Anti-Nepotism Policy
+- Immediate family members (spouse, parent, child, sibling, in-law, aunt, uncle, niece, grandparent, grandchild, or household members), including those in romantic relationships, may be employed based on qualifications, but NOT if it would:
+  - Create a supervisor-subordinate relationship between the family members
+  - Create potential for adverse impact on work performance
+  - Create an actual or apparent conflict of interest
+- This must be considered for hiring, transfers, and promotions.
+- If a violation arises (for example, marriage between employees in a reporting relationship), one employee must be transferred. If transfer is not feasible, the employees decide who resigns within 2 months of the violation arising. If they cannot decide, management decides at its sole discretion.
+
+f. Reporting Potential Conflicts
+- Employees must promptly disclose actual or potential conflicts of interest in writing to their Reporting Officer or Department Head.
+- Approval is withheld if the relationship would interfere with duties or damage the company's relationships.
+- Failure to disclose a known conflict may lead to disciplinary action up to termination.
+
+Confidentiality of Company Information
+- All company records and information, including client information, are confidential.
+- No company-related information, documents, files, or records (physical or electronic) may be removed from premises without permission, except in the ordinary course of duties.
+- Information may not be disclosed to anyone except as required for business purposes - this includes unintentional disclosure through casual conversation.
+- Employees unsure about the confidentiality of any information should ask their Reporting Officer.
+
+Organizational Assets / Intellectual Property
+- The company retains legal ownership of all work product created by employees during employment, including documents, recordings, source code, concepts, ideas, and other intellectual property, regardless of whether it is ultimately used, and even after employment ends.
+- Employees may display or discuss portions of their work product in certain contexts (such as resumes or prospective client meetings), but must ensure confidential information remains confidential and must make clear that the work product is the company's sole property.
+
+Employer Property and Equipment
+- No company information or property (documents, files, records, computer files, equipment, supplies) may be removed from premises except in the ordinary course of business.
+- Upon leaving the company, employees must return all company information and property in their possession.
+- Company equipment (phones, fax, copiers, etc.) is for business use. Personal use is permitted only in emergencies with Reporting Officer permission, and any resulting charges must be reported for reimbursement.
+
+Internal Investigations and Searches
+- The company may conduct internal investigations regarding security, auditing, or work-related matters. Employees must cooperate fully.
+- The company may search work areas (desks, file cabinets) and personal belongings (bags, briefcases) without notice, though consent will generally be sought first where possible.
+
+APPROVAL REQUIREMENTS
+- Outside employment: written approval from the Department Head, prior to commencement.
+- Gifts above Rs. 2,000: must be declared to HR and Finance.
+- Conflict of interest disclosures: written disclosure to Reporting Officer or Department Head.
+
+EXCEPTIONS
+- Securities of publicly traded companies purchased on the open market are not considered a conflict of interest under the Financial Interest clause.
+
+IMPORTANT NOTES
+- Violation of confidentiality, conflict of interest, or asset-handling rules - whether knowing or unknowing - can lead to disciplinary action up to and including dismissal.
+
+================================================================
+SECTION 13: GRIEVANCE HANDLING PROCESS
+================================================================
+
+PURPOSE
+To provide every employee a fair, accessible mechanism to raise workplace concerns related to employment conditions, interpersonal disputes, policy violations, discrimination, retaliation, or management actions.
+
+ELIGIBILITY
+All employees may raise a grievance, regardless of the seniority or position of the person involved.
+
+POLICY RULES
+- A grievance is any incident of discrimination, retaliation, or other work-related concern arising in the workplace that is disturbing to the employee.
+- Reporting of all grievances is strongly encouraged, regardless of the offender's identity or position.
+- Raising a grievance does not preclude an employee from directly informing the other party that their behaviour is unwelcome and requesting it stop.
+
+Escalation Process
+1. Direct Discussion: Where appropriate and safe, the employee is encouraged to first discuss the issue directly with the individual involved, or with their immediate Reporting Officer.
+2. Written Complaint to HR: If unresolved within 5 working days, or if the grievance involves the reporting manager, the employee submits a written complaint to HR via the HR Grievance Portal or designated grievance email address, detailing the incident and concerns. HR discusses this with the relevant Function Head to seek a resolution.
+3. Formal Escalation: If unresolved at the functional level, the grievance is escalated to the Grievance Redressal Committee for a formal investigation.
+
+Grievance Redressal Committee
+- A dedicated committee, including a Chairperson and members with published contact details, is responsible for formal investigations.
+- Investigations cover allegations of harassment, discrimination, malpractice, or retaliation, and are conducted promptly, thoroughly, and impartially.
+- The investigation may include individual interviews with all involved parties and any relevant witnesses.
+
+Investigation Timelines
+- HR acknowledges a formal complaint within 2 working days.
+- Investigation is initiated within 5 working days, led by a neutral HR business partner or the Grievance Redressal Committee.
+- Resolution is communicated to the complainant within 30 working days of the complaint being filed.
+- Confidentiality is maintained throughout, to the extent consistent with proper investigation and corrective action.
+
+Responsive Action (Stages)
+Misconduct found through grievance investigation may be addressed via:
+- Stage 1: Training, referral to counselling, monitoring of the offender
+- Stage 2: Disciplinary action such as warning or reprimand
+- Stage 3: Withholding promotion or pay increase, reduction of wages, demotion, or reassignment
+- Stage 4: Temporary suspension without pay, or termination
+
+Open Door Policy
+- Employees are encouraged to openly discuss any problems with their Reporting Officer for appropriate action.
+- If the Reporting Officer cannot help, HR is available for consultation and guidance.
+
+APPROVAL REQUIREMENTS
+- None for filing a grievance; the process is initiated by the employee directly.
+- Escalation to the Grievance Redressal Committee is automatic if functional-level resolution fails.
+
+EXCEPTIONS
+- None.
+
+IMPORTANT NOTES
+- Non-Retaliation: Retaliation against any employee who, in good faith, raises a grievance or participates in an investigation is strictly prohibited. Retaliatory acts (demotion, hostile treatment, exclusion, threats) constitute a separate, serious disciplinary offence. Employees who believe they are facing retaliation must report it to HR immediately.
+- These grievance policies must not be used as a basis for excluding individuals from work-related social or business activities to avoid allegations.
+
+================================================================
+SECTION 14: RESIGNATION AND NOTICE PERIOD POLICY
+================================================================
+
+PURPOSE
+To define the process and obligations when an employee chooses to resign, ensuring a smooth transition for both the employee and the organization.
+
+ELIGIBILITY
+Applies to all confirmed and probationary employees.
+
+POLICY RULES
+
+Resignation Process
+1. An employee wishing to resign must submit a formal written resignation to their Reporting Officer and HR via email.
+2. The Reporting Officer and HR will have a conversation with the employee to understand the reason for leaving and explore whether an alternative solution is possible.
+3. The resignation becomes effective from the date it is received and acknowledged by HR.
+4. The employee must serve the applicable notice period or a mutually agreed shorter period negotiated with the manager and HR.
+
+Notice Period
+- Standard Notice Period (Confirmed Employees): 60 calendar days (2 months).
+- Senior Manager Level and Above: 90 calendar days.
+- During Probation: 30 calendar days, or payment of salary in lieu of notice.
+- Gross Misconduct: No notice period is required; the company may terminate immediately without notice or pay in lieu (see Section 18: Disciplinary Actions).
+- The company may, at its discretion: accept a shorter notice period than the employee's standard entitlement, waive the notice period entirely and pay out the balance, or ask the employee to leave early while paying out the remaining notice period.
+
+Conduct During Notice Period
+- The employee must continue performing duties diligently and complete a handover of responsibilities and documentation to a nominated colleague.
+- Earned Leave available may be utilized during the notice period, up to a maximum of 1.5 days per month.
+- Casual Leave is NOT available during the notice period.
+- Medical Leave remains available during the notice period, subject to medical documentation.
+- Work From Home is NOT available during the notice period (see Section 4).
+- The notice period may be reduced at management's discretion after discussion with the employee.
+
+Leave Encashment at Resignation
+- Earned Leave is encashed at separation based on the average Basic salary of the last 10 months, subject to the 30-day accumulation cap (see Section 2).
+- Casual Leave and Medical Leave are not encashable at any time, including at resignation.
+
+APPROVAL REQUIREMENTS
+- Resignation must be acknowledged in writing by HR for the effective date to be confirmed.
+- Any reduction or waiver of the notice period requires mutual agreement between the employee, the manager, and HR.
+
+EXCEPTIONS
+- During probation (or extended probation), the company may terminate the employee at any time without notice or reason, except where local law requires otherwise.
+
+IMPORTANT NOTES
+- All notice period durations above are calendar days, not working days.
+
+================================================================
+SECTION 15: EXIT MANAGEMENT PROCESS
+================================================================
+
+PURPOSE
+To ensure a structured, compliant, and respectful transition for employees leaving the organization, whether through resignation, dismissal, or retirement.
+
+ELIGIBILITY
+Applies to all employees separating from the company for any reason.
+
+POLICY RULES
+
+Ways of Leaving
+- Resignation: Voluntary departure (see Section 14).
+- Dismissal: Termination due to violation of policies, law, or non-performance, following the Disciplinary Action process (Section 18) and/or the Performance Improvement Plan process (Section 9).
+- Retirement: The retirement age is 60 years for all employees. Earned Leave is encashed at the gross salary rate upon retirement or contract completion.
+
+Exit Formalities (Before Last Working Day)
+1. Knowledge Transfer: The employee must prepare and hand over documentation, access credentials, and project notes to the designated successor or manager.
+2. No-Dues Clearance: The employee must obtain clearance from IT (devices and accounts), Finance (pending reimbursements or advances), and HR.
+3. Exit Interview: The employee participates in a structured exit interview with HR, scheduled on or near the last working day, to share feedback on the employee experience.
+4. PF and Gratuity: HR processes Provident Fund and Gratuity claims as per applicable law. Employees with 5 or more years of continuous service are eligible for gratuity (see Section 5).
+
+Return of Company Assets
+Employees must return, before or on the last working day:
+- Laptop, charger, docking station, and peripherals
+- Access cards, office keys, visitor pass holders, and Identity Card
+- Any documents, printed materials, or storage media containing company or client information
+- Company credit or corporate travel cards
+- All passwords for files and computers, and any insurance ID cards issued
+- Any other company-owned or issued property
+
+Full and Final (FnF) Settlement
+- Includes the last month's salary, encashment of accrued Earned Leave (up to the 30-day cap), and applicable gratuity.
+- Processed and credited within 45 days of the last working day.
+- If unpaid obligations to the company exist (unreturned assets, recoverable advances, or pro-rata recovery of L&D certification costs within the 12-month retention period), the FnF amount will reflect the appropriate deductions.
+
+Post-Separation Obligations
+- Employees remain bound by confidentiality and Non-Disclosure Agreement (NDA) clauses indefinitely, even after separation.
+- A non-solicitation clause, where included in the employment contract, prohibits soliciting company clients or employees for 12 months post-separation.
+
+APPROVAL REQUIREMENTS
+- Failure to return company assets results in recovery of the assessed value from the FnF settlement.
+- Employees must return all office keys and corporate cards before the FnF payment is processed.
+- Eligibility for Performance Pay tied to the prior appraisal cycle requires a transparent handover and full policy compliance (management discretion applies for resignees).
+
+EXCEPTIONS
+- None.
+
+IMPORTANT NOTES
+- HR is responsible for scheduling the exit interview and coordinating the return of all company property.
+
+================================================================
+SECTION 16: HOLIDAY POLICY
+================================================================
+
+PURPOSE
+To define paid holidays observed by the organization and how holiday-related work is compensated.
+
+ELIGIBILITY
+Applies to all employees.
+
+POLICY RULES
+- The company observes 12 confirmed public holidays per year, including national holidays (Republic Day on 26 January, Independence Day on 15 August, and Gandhi Jayanti on 2 October) and applicable regional/state holidays, none of which fall on a weekend.
+- Restricted Holidays: A separate list of optional restricted holidays is published each year. Employees may avail 2 restricted holidays per year, chosen from this list.
+- HR publishes the updated holiday list (confirmed and restricted) for the upcoming calendar year at the start of each year via the HRMS portal and email.
+
+Work on a Public Holiday
+- If an employee is required to work on a public holiday due to business exigencies, they are entitled to a compensatory off, to be availed within 30 days (see Section 2).
+
+APPROVAL REQUIREMENTS
+- Working on a declared holiday requires prior manager approval and is compensated via compensatory off.
+- Restricted holidays must be selected and applied for through the HRMS leave portal, following the same advance-notice rules as Casual Leave.
+
+EXCEPTIONS
+- None.
+
+IMPORTANT NOTES
+- The annual holiday list is location-specific and may differ across office locations due to regional holidays.
+
+================================================================
+SECTION 17: INFORMATION SECURITY AND CONFIDENTIALITY
+================================================================
+
+PURPOSE
+To protect company, client, and employee data through robust information security practices and clear acceptable-use guidelines.
+
+ELIGIBILITY
+Applies to all employees with access to company systems, devices, email, or data.
+
+POLICY RULES
+
+Data Protection Requirements
+- Employees must access only the data and systems necessary for their role (principle of least privilege).
+- Employees must not download or transfer client data to personal devices or unauthorised cloud storage.
+- Any suspected data breach or unauthorised access must be reported immediately to the Information Security team via the designated incident reporting channel.
+
+Password Management
+- Passwords for all company systems must be at least 12 characters long, combining uppercase letters, lowercase letters, numbers, and special characters.
+- Passwords must be changed every 90 days.
+- Passwords must not be shared with colleagues, managers, or IT support staff. IT support will never ask for a password.
+- A company-approved password manager may be used for storing credentials. Storing passwords in plain text files or browser-only storage is not permitted.
+
+Multi-Factor Authentication (MFA)
+MFA is mandatory for:
+- Company email and collaboration tools
+- Internal HR and payroll systems
+- Remote access to company servers or internal applications
+- Cloud platform access related to company infrastructure
+MFA must never be bypassed. Employees who lose their authenticator device must report it to IT immediately for credential recovery.
+
+VPN Usage
+- All remote access to internal company systems, databases, and the intranet must be conducted through the company-issued VPN.
+- Employees must connect to the VPN before accessing internal resources from outside the office network.
+- The VPN client is pre-installed on company-issued devices. Employees using personal devices for work must request VPN installation approval from IT.
+- Split tunnelling is disabled; all internet traffic from a connected device is routed through the VPN.
+
+Confidential Information Handling
+- Confidential information includes source code, client contracts and data, business plans, financial information, employee personal data, and unreleased product details.
+- Confidential information must only be shared with individuals who have a legitimate business need to know.
+- Documents containing confidential information must not be printed unnecessarily; printed copies must be retrieved immediately and disposed of via secure shredding.
+- Employees must sign and comply with the Non-Disclosure Agreement (NDA) included in their employment contract.
+
+Email Policy
+- The email system is company property, provided for business purposes; personal use is prohibited.
+- All communications and information in the email system are company records and property.
+- Employees have no expectation of personal privacy in the email system; the company may monitor, access, retrieve, and delete any content for any reason.
+- Email passwords must be made available to the company if needed for access during an employee's absence; however, other employees may not read emails not addressed to them without authorization.
+- Email must not be used to propagate personal religious or political agendas, commercial solicitations, or non-job-related causes.
+- The email system must not be used to send or receive copyrighted material, trade secrets, or proprietary financial information without authorization.
+
+Internet Policy
+- Internet access is provided to assist with job performance and must be used with common sense and good judgment.
+- The company is not liable for material viewed or downloaded; users access the internet at their own risk and must immediately disconnect from any inappropriate or sexually explicit content encountered.
+- Employees must not waste computer resources through mass mailings, chain letters, excessive browsing, gaming, chat groups, unnecessary printing, or non-business audio/video downloads.
+- There is no expectation of privacy on company computer systems; the company may monitor all usage, including sites visited, uploads/downloads, and emails.
+- Prohibited content (fraudulent, harassing, embarrassing, sexually explicit, profane, obscene, intimidating, defamatory, unlawful, or otherwise offensive material, including content based on protected characteristics) may not be downloaded, displayed, or stored on company systems.
+- Files from outside sources (downloads, email attachments, removable media) must be virus-scanned with approved software before use. Suspected virus infections must be reported to the IT Help Desk immediately.
+- Unsolicited email (spamming) to persons without a prior relationship requires supervisor permission.
+
+Acceptable Use of Company Systems and Equipment
+- Company devices, email, and internet access are primarily for business use. Limited personal use is allowed if it does not interfere with work, consume significant bandwidth, involve illegal/adult/offensive content, install unauthorised software or browser extensions, or compromise security.
+- Loss, damage, or theft of company property must be reported immediately; negligence may be grounds for discipline up to termination.
+- All company property, equipment, work product, and documents must be returned upon termination of employment (see Section 15).
+- Files on company computers may be purged at any time without notice.
+
+APPROVAL REQUIREMENTS
+- VPN installation on personal devices requires IT approval.
+- Sending or receiving copyrighted material, trade secrets, or proprietary financial information via email requires prior management authorization.
+
+EXCEPTIONS
+- None.
+
+IMPORTANT NOTES
+- The company reserves the right to monitor company-owned devices and network traffic for compliance with this policy, in accordance with applicable law and with prior notification to employees.
+
+================================================================
+SECTION 18: DISCIPLINARY ACTIONS
+================================================================
+
+PURPOSE
+To provide a corrective, fair, and consistent process for addressing employee misconduct, while reserving severe and immediate action for serious violations.
+
+ELIGIBILITY
+Applies to all employees.
+
+POLICY RULES
+
+Categories of Misconduct
+
+Minor Misconduct (examples):
+- Repeated late arrivals or unplanned absences without adequate communication
+- Non-compliance with dress code or workplace etiquette
+- Failure to submit timely reports or updates
+- Personal internet use that interferes with productivity
+
+Major Misconduct (examples):
+- Insubordination or refusal to follow reasonable management instructions
+- Dishonesty in reporting hours, expenses, or work output
+- Violation of data security or confidentiality policies
+- Harassment, discrimination, or bullying of any kind
+- Misuse of company property or funds
+
+Gross Misconduct (examples - warrant immediate dismissal without notice):
+- Breach of trust or dishonesty
+- Conviction of a felony or criminal offence
+- Willful violation of an established policy or rule
+- Falsification of company records
+- Gross negligence
+- Violation of the POSH Policy and/or Equal Employment Opportunity Policy
+- Unauthorized or undue absence during scheduled work hours ("absconding")
+- Deliberate non-performance of work
+- Larceny or unauthorized possession or use of property belonging to co-workers, visitors, or customers
+- Possession of weapons on premises
+- Unauthorized possession, use, or copying of company records
+- Unauthorized posting or removal of notices
+- Excessive absenteeism or lateness
+- Marring, defacing, or willful destruction of company property
+- Failure to contact the Reporting Officer when late or absent
+- Fighting or serious breach of acceptable behaviour
+- Violation of the Alcohol or Drug Policy
+- Theft, fraud, or embezzlement
+- Violation of the Conflict of Interest, Outside Employment, or Confidentiality Policies
+- Gambling or possession of gambling devices on premises or during work hours
+- Leaving work premises without authorization during work hours
+- Sleeping on duty
+- Possessing drugs, alcohol, or other banned substances
+- Physical assault or threats of violence against any person
+- Sharing confidential client or company data with unauthorised parties
+- Reporting to work under the influence of alcohol or illegal substances
+- Serious breaches of the information security policy causing material harm
+
+Progressive Disciplinary Process (Minor and Major Misconduct)
+1. Verbal Warning: The Reporting Officer discusses the behaviour with the employee, documents the conversation, and files a copy with HR. The area of improvement and the time frame for correction are clearly explained to the employee.
+2. Written Warning: If the behaviour persists or recurs within 6 months of the verbal warning, the Reporting Officer presents a formal written warning to the employee in the presence of an HR representative. The warning clearly identifies the problem, outlines corrective action and timeframe, and states the consequences (including termination) if not corrected. The employee acknowledges receipt, may add comments, and signs the document, which is filed in the employee's HR record. Employees under a formal written warning are not eligible for salary increases, bonus awards, promotions, or transfers during the warning period.
+3. Performance Improvement Plan (PIP): For sustained underperformance or repeated minor misconduct, a formal PIP is issued with specific, measurable targets and a 6-month review period (see Section 9).
+4. Final Written Warning: If no improvement follows the PIP, a final written warning is issued, making clear that further violations may result in termination.
+5. Termination: If improvement is not demonstrated after all corrective steps, employment is terminated with the applicable notice period (or pay in lieu) and FnF settlement.
+
+Termination Conditions
+- Termination With Notice (Normal Corrective Termination): Applied when all progressive disciplinary steps have been followed without sufficient improvement. The applicable notice period (60 days, or 90 days for Senior Manager and above) or pay in lieu applies, along with the standard FnF settlement.
+- Termination Without Notice (Summary Dismissal): Reserved for Gross Misconduct, where continued employment - even through a notice period - is inappropriate or risky. The employee is not entitled to notice pay, and disciplinary findings are recorded in the employment file.
+
+APPROVAL REQUIREMENTS
+- All terminations, regardless of reason, require approval from the HR Head and the relevant Department Head before issuance.
+- For serious policy or law breaches, management may initiate a formal investigation at the Written Warning stage or earlier.
+
+EXCEPTIONS
+- Gross Misconduct bypasses the progressive disciplinary process and results in immediate termination without notice.
+
+IMPORTANT NOTES
+- This list of misconduct examples is representative, not exhaustive.
+- In the event of dismissal for misconduct, all benefits end at the end of the month of dismissal.
+
+================================================================
+SECTION 19: EMPLOYEE VERIFICATION POLICY
+================================================================
+
+PURPOSE
+To define how employee identity, employment status, and eligibility are verified for HR transactions, system access, and chatbot-assisted self-service.
+
+ELIGIBILITY
+Applies to all current and former employees whose records exist in the HR Management System (HRMS).
+
+POLICY RULES
+
+Employee ID Validation
+- Every employee is issued a unique Employee ID at the time of onboarding, in the format EMP followed by a 5-digit number (for example, EMP00123).
+- The Employee ID is required for all HR self-service actions, including leave applications, reimbursement claims, ticket creation, and payroll queries.
+- The AI HR Assistant must validate the Employee ID against the HRMS database before processing any personalized request. If the Employee ID is not found, the assistant must inform the employee that the ID could not be verified and direct them to contact HR at hr.support@company.com.
+
+Employee Status Validation: Active vs. Inactive
+- Active Employee: An employee currently on the payroll, including those on probation, confirmed employees, and employees serving their notice period. Active employees have full access to HR self-service functions appropriate to their employment stage (for example, employees on notice period cannot apply for WFH, per Section 4 and Section 14).
+- Inactive Employee: An employee whose last working day has passed and whose Full and Final settlement is in progress or completed. Inactive employees retain access only to: viewing their Full and Final settlement status, downloading past payslips and Form 16, and contacting HR regarding post-separation queries (PF, gratuity, experience letter).
+- Inactive employees cannot apply for leave, WFH, reimbursements, or raise new performance-related grievances.
+- Status changes from Active to Inactive automatically in the HRMS on the day after the employee's last working day, once HR processes the exit.
+
+Verification for Sensitive Requests
+- Requests involving salary details, bank account changes, or personal data updates require the employee to be authenticated via their registered company email and Employee ID.
+- The AI HR Assistant must not disclose another employee's personal, payroll, or performance data under any circumstances, regardless of the requester's designation.
+
+APPROVAL REQUIREMENTS
+- Employee status changes (Active to Inactive) are processed automatically by HR upon exit clearance; no employee action is required.
+- Reactivation of an Inactive status (for example, in case of rejoining) requires HR to create a new employee record following the Rehire process.
+
+EXCEPTIONS
+- Employees on Leave Without Pay or extended Medical Leave remain classified as Active but may have restricted self-service functions as determined by HR on a case-by-case basis.
+
+IMPORTANT NOTES
+- The AI HR Assistant should always confirm whether an employee is Active or Inactive before processing leave, WFH, reimbursement, or performance-related requests, since Inactive employees are not eligible for these.
+
+================================================================
+SECTION 20: HR TICKET AND GRIEVANCE MANAGEMENT
+================================================================
+
+PURPOSE
+To define the process, escalation matrix, resolution timelines, and status definitions for HR tickets raised through the HR Ticketing System or the AI HR Assistant.
+
+ELIGIBILITY
+All Active employees may raise HR tickets. Inactive employees may raise tickets only for post-separation queries (see Section 19).
+
+POLICY RULES
+
+Ticket Creation Process
+1. An employee raises a ticket through the HRMS Ticketing Portal, by emailing hr.support@company.com, or via the AI HR Assistant chatbot.
+2. The ticket must include: Employee ID, ticket category (Leave, Payroll, Reimbursement, IT Access, Policy Query, Grievance, Exit, or General HR), a description of the issue, and any supporting documents.
+3. The system automatically generates a unique Ticket ID in the format TCK followed by a 6-digit number (for example, TCK100245) and sends an acknowledgement email to the employee.
+
+Ticket Categories and Default Owners
+- Leave and Attendance queries: routed to the HR Operations team.
+- Payroll and Salary queries: routed to the Payroll team.
+- Reimbursement and Travel queries: routed to the Finance team.
+- IT Access and Information Security queries: routed to the IT Helpdesk.
+- Policy Clarification queries: routed to the HR Policy team.
+- Grievance and POSH-related tickets: routed directly to the Grievance Redressal Committee or ICC, bypassing the standard queue, and are marked Confidential.
+- Exit and FnF queries: routed to the HR Exit Management team.
+
+Resolution Timelines (Service Level Agreements)
+- Acknowledgement: Within 1 working day of ticket creation.
+- Simple Queries (policy clarification, payslip access, leave balance): Resolved within 2 working days.
+- Standard Requests (reimbursement processing queries, attendance corrections): Resolved within 5 working days.
+- Complex Requests (salary discrepancies, payroll corrections, benefits enrolment issues): Resolved within 10 working days.
+- Grievance and Investigation Tickets: Follow the timelines in Section 13 (acknowledgement within 2 working days, investigation initiated within 5 working days, resolution within 30 working days).
+- POSH Complaints: Follow the timelines in Section 11 (90 days total for the complete process).
+
+Ticket Statuses
+- Open: Ticket has been created and is awaiting assignment to a resolver team.
+- In Progress: Ticket has been assigned and is being actively worked on.
+- Pending Employee Response: Additional information is required from the employee; the SLA clock pauses until the employee responds.
+- Escalated: Ticket has breached its SLA or has been manually escalated and is now with the next level in the Escalation Matrix.
+- Resolved: The issue has been addressed; the ticket awaits employee confirmation for 3 working days before automatic closure.
+- Closed: The ticket is complete, either confirmed by the employee or automatically closed after 3 working days with no response.
+- Reopened: A Closed or Resolved ticket reopened by the employee within 7 days if the issue recurs or was not fully resolved.
+
+Escalation Matrix
+- Level 1: HR Operations Executive / Functional Team Member (initial ticket owner).
+- Level 2: HR Operations Manager / Functional Team Lead - tickets escalate here automatically if unresolved 1 working day past the SLA.
+- Level 3: HR Business Partner (HRBP) for the employee's department - tickets escalate here if unresolved 3 working days past the SLA, or if the employee requests escalation.
+- Level 4: HR Head / Department Head - tickets escalate here if unresolved 5 working days past the SLA, or for any Grievance ticket unresolved after 15 working days.
+- Level 5 (Final): Senior Management Review Committee (CHRO and two senior leaders) - reserved for Grievance tickets unresolved after the 30-working-day timeline, or for any ticket the employee formally appeals after Level 4.
+
+APPROVAL REQUIREMENTS
+- Standard tickets do not require approval to raise.
+- Reopening a ticket after 7 days of closure requires a new ticket to be raised instead.
+
+EXCEPTIONS
+- Grievance and POSH tickets bypass the standard Level 1/Level 2 queue and go directly to the Grievance Redressal Committee or ICC respectively (see Sections 11 and 13).
+
+IMPORTANT NOTES
+- Employees can check ticket status at any time via the HRMS Ticketing Portal using their Ticket ID, or by asking the AI HR Assistant for their ticket status using their Employee ID.
+
+================================================================
+SECTION 21: EMPLOYEE DATA AND RECORDS
+================================================================
+
+PURPOSE
+To define how employees update personal information, emergency contacts, bank details, and submit required documents, and how these records are maintained.
+
+ELIGIBILITY
+All Active employees. Inactive employees may update only their forwarding address and bank details for FnF and Form 16 purposes.
+
+POLICY RULES
+
+Personal Information Updates
+- Employees must keep the following information current in the HRMS: full name, marital status, residential address, contact number, number of eligible dependents, emergency contact details, and educational qualifications.
+- Updates to name (e.g., due to marriage) require submission of a supporting legal document (marriage certificate, gazette notification) to HR.
+- All other personal information updates (address, contact number, marital status) can be self-updated by the employee via the HRMS Employee Self-Service (ESS) portal and take effect immediately, subject to HR verification within 3 working days.
+
+Emergency Contact Details
+- Every employee must maintain at least one emergency contact on file, including the contact's name, relationship to the employee, and phone number.
+- Emergency contact details can be updated at any time via the ESS portal without approval.
+- HR uses emergency contact details only in the event of an accident, medical emergency, or safety incident involving the employee.
+
+Bank Account Updates
+- Employees must submit a request to update their salary bank account details via the HRMS Payroll Module, attaching a cancelled cheque or a bank statement showing the account holder's name, account number, and IFSC code.
+- Bank account updates require Payroll team verification and take effect from the next payroll cycle. Updates submitted after the 20th of the month may not be reflected until the following month's payroll cycle.
+- Bank account updates cannot be processed without the supporting document described above.
+
+Document Submission Process
+- Mandatory documents at onboarding include: government-issued photo ID, proof of address, educational certificates, previous employment relieving letter (if applicable), PAN card, and Aadhaar card (or equivalent national ID).
+- Mandatory documents during employment include: medical certificates (for Medical Leave exceeding 2 days), marriage certificates (for HR record updates and benefits enrolment), birth certificates (for Maternity/Paternity Leave and dependant insurance enrolment), and training completion certificates (for L&D reimbursement claims).
+- All documents must be uploaded via the HRMS Document Management module in PDF, JPG, or PNG format, with a maximum file size of 5 MB per document.
+- HR reviews and verifies uploaded documents within 5 working days and notifies the employee if any document is rejected or requires resubmission.
+
+APPROVAL REQUIREMENTS
+- Name changes require HR verification of supporting legal documents before the HRMS record is updated.
+- Bank account changes require Payroll team verification before being applied to the next payroll run.
+
+EXCEPTIONS
+- Inactive employees may update only forwarding address and bank details, for FnF settlement and Form 16 delivery purposes.
+
+IMPORTANT NOTES
+- Employees are responsible for ensuring their records are accurate and up to date; incorrect records may delay benefits processing, insurance claims, payroll, or emergency response.
+
+================================================================
+SECTION 22: PAYROLL AND SALARY QUERIES
+================================================================
+
+PURPOSE
+To define how employees access payslips, report payroll issues, and request salary corrections.
+
+ELIGIBILITY
+All employees who have received at least one salary payment.
+
+POLICY RULES
+
+Payslip Availability
+- Monthly payslips are generated and made available on the HRMS Payroll Module by the 5th working day of the following month.
+- Payslips can be downloaded in PDF format at any time for the current and all previous months of employment.
+- Form 16 (annual tax statement) is made available by 15 June each year for the preceding financial year.
+
+Payroll Issue Reporting
+- Any discrepancy in salary (incorrect amount, missing allowance, incorrect deduction) must be reported to HR and the Payroll team within 5 working days of the salary credit date, via an HR ticket categorized as "Payroll and Salary."
+- The Payroll team reviews the reported discrepancy and responds within 5 working days (per the Standard Request SLA in Section 20).
+- If the discrepancy is confirmed, the correction is processed in the next payroll cycle, or as an off-cycle correction payment if the amount is significant and the employee requests expedited processing.
+
+Salary Correction Process
+1. Employee raises a "Payroll and Salary" ticket specifying the pay period, the expected amount, the amount received, and the reason for the discrepancy (if known).
+2. The Payroll team verifies the discrepancy against the employee's salary structure, attendance records, leave records, and any approved reimbursements for that period.
+3. If the Payroll team confirms an error, the correction amount is calculated and approved by the Payroll Manager.
+4. Corrections are reflected either in the next regular payroll cycle (default) or via an off-cycle bank transfer for urgent cases, at the Payroll Manager's discretion.
+5. The employee receives a revised payslip or correction statement reflecting the adjustment.
+6. If the Payroll team does not confirm an error, the ticket is closed with an explanation, and the employee may escalate per the Escalation Matrix in Section 20.
+
+APPROVAL REQUIREMENTS
+- Off-cycle correction payments require Payroll Manager approval.
+- Any correction affecting statutory deductions (PF, ESIC, TDS) requires additional Finance team sign-off before processing.
+
+EXCEPTIONS
+- Salary discrepancies reported after 5 working days from the credit date are still investigated but may take longer to resolve, as the correction may need to be applied retroactively across multiple payroll cycles.
+
+IMPORTANT NOTES
+- Employees should always cross-check their payslip against their salary structure, approved leave, and reimbursement claims before raising a discrepancy ticket, to ensure accurate reporting.
+
+================================================================
+SECTION 23: MANAGER APPROVAL MATRIX
+================================================================
+
+PURPOSE
+To define which approvals are required for common employee requests, who the approver is, and the applicable timelines, ensuring consistency across Leave, WFH, Travel, and Reimbursement approvals.
+
+ELIGIBILITY
+Applies to all Active employees submitting requests through the HRMS.
+
+POLICY RULES
+
+Leave Approvals
+- Approver: Direct Reporting Manager.
+- Escalation: If the Reporting Manager does not act within 2 working days, the request automatically escalates to the next-level manager (skip-level).
+- Casual Leave: requires manager approval; submitted at least 2 working days in advance.
+- Earned Leave: requires manager approval; submitted with advance notice as defined in Section 2 (3 days/1 week/2 weeks depending on duration).
+- Medical Leave: requires manager approval; for leave exceeding 2 days, a medical certificate must also be uploaded.
+- Maternity/Paternity/Bereavement/Study Leave: require manager approval AND HR acknowledgement, given the documentation and eligibility checks involved.
+- HR retains override authority to decline or defer any leave type during critical business periods, regardless of manager approval.
+
+WFH Approvals
+- Default Hybrid Schedule (3 days office / 2 days WFH): No explicit approval required, but must align with team in-office days as communicated by the manager.
+- Probation WFH Request (after 60 days): requires Reporting Manager approval.
+- Temporary Full-Remote (up to 2 weeks): requires Reporting Manager approval only.
+- Full-Remote (more than 1 week): requires both Reporting Manager AND HR approval.
+- Remote Work From Abroad: requires HR approval (written), regardless of duration.
+- Employees on Notice Period: WFH requests are automatically rejected by the system (see Section 4 and Section 14).
+
+Travel Approvals
+- All Official Travel: requires written approval from the Functional Head or Director, obtained BEFORE booking travel.
+- Domestic Travel Reimbursement: requires Reporting Officer approval, submitted with original bills within 1 week of return.
+- International Travel: requires Functional Head or Director approval before booking; case-by-case Director approval additionally required if staying with family/friends instead of company-arranged lodging.
+- Cash Advances (Domestic, A4 employees only): requires Reporting Officer approval; must be adjusted within 7 days of return.
+- Cash Advances (International, all categories): requires Functional Head approval; must be adjusted within 10 days of return.
+- Third-Party Entertainment Expenses: requires Functional Head approval with documented business purpose.
+
+Reimbursement Approvals
+- L&D Budget Spending: requires Reporting Manager AND HR approval BEFORE the expense is incurred.
+- Training/Seminar Attendance (Professional Development Allowance): requires Reporting Officer's prior written approval.
+- Mobile/Internet/LTA/HRA Allowance Claims: no per-claim approval required if structured at the start of the financial year; claims are processed quarterly by Finance upon bill submission.
+- Gym/Wellness Reimbursement: no prior approval required; reimbursed against valid receipts submitted to HR.
+- Dental Insurance Claims: submitted directly to the insurance provider's portal; no internal approval required, subject to the 30-day submission window.
+- Employee Advance: requires Reporting Manager recommendation AND Management sanction.
+
+APPROVAL TIMELINES SUMMARY
+- Leave requests: 2 working days for manager decision, then auto-escalation.
+- WFH requests (where approval is needed): 2 working days for manager decision.
+- Travel approvals: must be obtained before booking; no fixed SLA, but recommended at least 2 weeks before travel for cost efficiency.
+- Reimbursement approvals (L&D, training): recommended before the expense is incurred; reimbursement payout itself follows the SLA in Section 7 (15 working days for L&D, quarterly for allowances).
+
+EXCEPTIONS
+- Gross emergencies (e.g., medical emergencies requiring immediate leave) bypass standard advance-notice requirements but still require notification to the manager on the same day.
+
+IMPORTANT NOTES
+- If an approver is on leave or unavailable for more than 2 working days, all pending approvals automatically route to the next-level manager (skip-level) to avoid delays.
+
+================================================================
+SECTION 24: EMPLOYEE RESPONSIBILITIES
+================================================================
+
+PURPOSE
+To summarize the core responsibilities every employee holds under this policy manual.
+
+POLICY RULES
+- Comply with the Code of Conduct, attendance norms, and all company policies (Sections 1, 3).
+- Report misconduct, safety issues, accidents, harassment, discrimination, or grievances to the Reporting Officer and/or HR promptly (Sections 11, 13, 18).
+- Maintain confidentiality of company, client, and colleague information at all times, during and after employment (Sections 12, 17).
+- Use company assets, systems, email, and internet responsibly and primarily for business purposes (Section 17).
+- Keep personal records, emergency contacts, and bank details updated with HR via the ESS portal (Section 21).
+- Apply for leave and WFH within the required notice periods and via the correct channels (Sections 2, 4, 23).
+- Submit reimbursement and travel claims with original bills within specified timelines (Sections 7, 8).
+- Disclose any actual or potential conflicts of interest in writing to the Reporting Officer or Department Head (Section 12).
+- Cooperate fully with internal investigations, audits, and searches when requested (Section 12).
+- Participate in mandatory training programs, including annual POSH awareness training (Section 11).
+- Maintain professional appearance, conduct, and communication standards, both in-office and remote (Sections 1, 4).
+- Return all company property and complete exit formalities promptly upon separation (Section 15).
+- Follow information security practices: strong passwords, MFA, VPN usage, and prompt reporting of suspected breaches (Section 17).
+- During WFH, log attendance daily, remain available during core hours, respond promptly to communications, and maintain task updates (Section 4).
+- Raise HR tickets through the correct category and provide accurate Employee ID and supporting details (Section 20).
+
+RESPONSIBILITIES OF REPORTING OFFICERS / MANAGERS
+- Approve or reject leave and WFH requests within the defined 2-working-day timeline (Sections 2, 4, 23).
+- Conduct goal-setting, mid-year, and annual performance reviews with direct reports (Section 9).
+- Address employee concerns and escalate to HR where necessary (Section 13).
+- Model respectful behaviour and address any conduct violations within their teams immediately (Section 1).
+- Approve official travel, training/seminar attendance, and reimbursement claims as required (Sections 8, 23).
+- Ensure timely documentation of verbal/written warnings in coordination with HR (Section 18).
+
+RESPONSIBILITIES OF HR DEPARTMENT
+- Maintain and update employee records, leave, and attendance systems accurately (Sections 19, 21).
+- Process payroll, benefits enrolment, reimbursements, and FnF settlements within defined timelines (Sections 5, 6, 7, 22).
+- Coordinate recruitment, onboarding, confirmation, and exit processes (Section 15).
+- Investigate grievances and disciplinary matters impartially and confidentially (Sections 11, 13, 18, 20).
+- Publish the annual holiday calendar and communicate policy updates (Section 16).
+- Conduct mandatory training, including induction and POSH awareness (Sections 11, 19).
+- Manage the HR ticketing system, escalation matrix, and SLA adherence (Section 20).
+
+================================================================
+SECTION 25: FREQUENTLY ASKED QUESTIONS (FAQ)
+================================================================
+
+LEAVE
+
+Q1: How many Earned Leave (EL) days do I get per year?
+A: You are entitled to 18 days of Earned Leave per calendar year, accrued at 1.5 days per month.
+
+Q2: How many Casual Leave (CL) days do I get?
+A: You are entitled to 6 Casual Leave days per year, credited as 3 days on 1 January and 3 days on 1 July.
+
+Q3: How many Sick/Medical Leave days do I get?
+A: You are entitled to 10 days of Medical Leave per year, credited in advance on 1 January.
+
+Q4: Can I take Casual Leave for more than 2 days at a time?
+A: No. Casual Leave cannot be taken for more than 2 consecutive days at a time.
+
+Q5: Does Casual Leave carry forward to the next year?
+A: No. Unused Casual Leave lapses on 31 December and is not encashable.
+
+Q6: Can I carry forward my Earned Leave?
+A: Yes, up to a maximum of 30 days. Any accumulation beyond 30 days is automatically encashed at year-end.
+
+Q7: Is Medical Leave encashable?
+A: No. Medical Leave is not encashable at any time, including at separation.
+
+Q8: Can I take Sick Leave during probation?
+A: Yes. Employees on probation are entitled to Medical Leave on a pro-rata basis.
+
+Q9: Can I take Earned Leave during probation?
+A: Earned Leave accrues during probation but can only be availed after confirmation, unless your manager grants prior approval for an exception.
+
+Q10: Do I need a medical certificate for sick leave?
+A: Yes, for Medical Leave exceeding 2 consecutive days, you must submit a medical certificate from a registered practitioner within 3 days of returning to work.
+
+Q11: Can I combine Sick Leave with Earned Leave?
+A: Only with prior approval from your reporting manager and HR.
+
+Q12: Can I combine Casual Leave with Earned Leave?
+A: No. Casual Leave cannot be combined or clubbed with Earned Leave.
+
+Q13: How much advance notice do I need to apply for Casual Leave?
+A: At least 2 working days in advance.
+
+Q14: How much advance notice do I need for Earned Leave?
+A: 3 days for 1 day of leave, 1 week for 2-5 days, and 2 weeks for more than 5 days.
+
+Q15: What happens if I take leave without informing anyone?
+A: It is treated as Loss of Pay. Specifically, 5 days of Leave Without Pay (LWP) will be charged for each uninformed day of absence.
+
+Q16: What is the maternity leave policy?
+A: Female employees who have worked at least 80 days in the 12 months before their expected delivery date are entitled to 26 weeks of paid Maternity Leave for the first two children, and 12 weeks for the third child onward. Leave may start up to 8 weeks before the expected delivery date.
+
+Q17: What is the adoption leave policy?
+A: Employees who legally adopt a child below 3 months of age, or commissioning mothers under surrogacy, are entitled to 12 weeks of Maternity Leave from the date the child is handed over.
+
+Q18: What leave is provided in case of miscarriage?
+A: 6 weeks of paid leave from the day of the miscarriage, upon submission of supporting medical documentation.
+
+Q19: What is the paternity leave policy?
+A: Male employees and adoptive fathers get 10 days of paid Paternity Leave, to be availed within 3 months of the birth or adoption, for up to the first two children.
+
+Q20: How many days of bereavement leave am I entitled to?
+A: 5 days for the death of an immediate family member (spouse, child, parent, sibling, or parent-in-law), and 2 days for an extended family member (grandparent or spouse's sibling).
+
+Q21: What is Study Leave and who is eligible?
+A: Study Leave is unpaid leave of up to 2 years, available to employees who have completed 4 years of service after confirmation, subject to Department Head recommendation and Management Committee approval.
+
+Q22: What happens if I'm asked to work on a public holiday?
+A: You are entitled to a compensatory off, to be availed within 30 days.
+
+Q23: How is compensatory off calculated?
+A: One full day for working 5 or more hours, and half a day for working less than 5 hours, applicable to Assistant Manager level and below.
+
+Q24: What is Leave Without Pay (LWP)?
+A: LWP is leave taken after exhausting all applicable Casual Leave, Earned Leave, and (for medical reasons) Medical Leave. It also applies as a penalty (5 days per uninformed absence day) for unapproved, unnotified leave.
+
+Q25: Who approves my leave request?
+A: Your direct Reporting Manager. If they don't respond within 2 working days, the request automatically escalates to the next-level manager.
+
+Q26: Can HR reject my leave even if my manager approved it?
+A: Yes. HR retains override authority to decline or defer leave during critical business periods or audits.
+
+ATTENDANCE AND WORKING HOURS
+
+Q27: What are the standard working hours?
+A: 9:00 AM to 6:00 PM, including a 30-minute lunch break and two 10-minute breaks, totaling 8 billable hours.
+
+Q28: By what time must I log in?
+A: By 9:15 AM at the latest.
+
+Q29: What are the standard working days?
+A: Monday to Friday. Saturday and Sunday are non-working days.
+
+Q30: What happens if my attendance falls below 85% in a month?
+A: It is flagged by HR to your manager for review, excluding approved leave.
+
+Q31: Can I shift my working hours (flexitime)?
+A: Yes. You may start between 8:00 AM and 10:30 AM, with your end time adjusted to complete 8 hours.
+
+Q32: What is a Compressed Work Week?
+A: Working longer hours over 4 days per week instead of 5, available in exceptional cases with department head and HR approval.
+
+Q33: What happens if I'm absent for more than 2 days without informing anyone?
+A: It is treated as Loss of Pay, and if persistent, may be treated as abandonment of employment, leading to disciplinary action.
+
+WORK FROM HOME
+
+Q34: Can I work from home?
+A: Yes. Permanent employees who have completed probation are eligible for the hybrid schedule (minimum 3 days in office, up to 2 days WFH per week).
+
+Q35: Can I work from home during my notice period?
+A: No. Employees serving their notice period are not eligible for WFH, including the monthly WFH allowance.
+
+Q36: Can I work from home while on probation?
+A: You may request WFH only after completing 60 days of employment, subject to manager approval.
+
+Q37: Do I need approval for the default 2-day WFH schedule?
+A: No explicit approval is needed, but it must align with your team's agreed in-office days.
+
+Q38: Can I work fully remote for an extended period?
+A: Full remote work for more than 1 week requires approval from both your Reporting Manager and HR, and is evaluated case by case.
+
+Q39: Can I work from home for 2 weeks due to an emergency?
+A: Yes. Temporary full-remote arrangements of up to 2 weeks can be approved at the manager level alone.
+
+Q40: Can I work remotely from another country?
+A: Only with prior written approval from HR.
+
+Q41: What are the core hours I must be available during WFH?
+A: 10:00 AM to 5:00 PM.
+
+Q42: What is the expected response time for messages/emails while working remotely?
+A: Within 2 hours during working hours.
+
+Q43: Can I use my personal laptop for work?
+A: Only if IT approves VPN installation on your personal device; company data must not be stored on unsecured personal devices.
+
+BENEFITS AND INSURANCE
+
+Q44: What is my Group Health Insurance coverage?
+A: Rs. 5,00,000 per employee per year, fully paid by the company from Day 1 of employment.
+
+Q45: Can I add my family to the health insurance?
+A: Yes, you can add your spouse and up to two dependent children below 25 years. The company covers 100% of their premium too.
+
+Q46: Does the health insurance cover pre-existing conditions?
+A: Yes, subject to the terms of the insurance policy.
+
+Q47: What is covered under Dental Insurance?
+A: Up to Rs. 15,000 per year for preventive, basic restorative, and major dental procedures. Orthodontic treatment is not covered.
+
+Q48: How do I claim dental insurance?
+A: Submit your claim through the insurance provider's portal within 30 days of the treatment date.
+
+Q49: Am I covered under accident insurance?
+A: Yes, all regular full-time employees are covered from their date of joining, at no cost.
+
+Q50: What is ESIC and am I eligible?
+A: ESIC is mandatory for employees with a monthly gross salary at or below Rs. 21,000, providing medical benefits to the employee, spouse, parents, and dependent children.
+
+Q51: What is the Employee Assistance Programme (EAP)?
+A: A confidential counselling service offering up to 6 free sessions per year with licensed mental health professionals.
+
+Q52: Is gym membership reimbursed?
+A: Yes, up to Rs. 5,000 per year against valid receipts, no prior approval needed.
+
+Q53: Are meals provided at the office?
+A: Yes, complimentary breakfast, lunch, dinner, and evening snacks are provided free of cost, with additional paid meal stations available.
+
+Q54: What is the Employee Referral Programme bonus?
+A: Rs. 25,000 for a non-technical role and Rs. 50,000 for a technical role at Senior Engineer level or above, paid 50% on joining and 50% after the referred employee completes probation.
+
+Q55: Is the Talent Acquisition team eligible for referral bonuses?
+A: No, HR and Talent Acquisition team members are not eligible.
+
+Q56: When do I become eligible for Gratuity?
+A: After completing 5 years of continuous service, as per the Payment of Gratuity Act, 1972, capped at Rs. 3,50,000.
+
+Q57: Can I take a salary advance?
+A: Confirmed employees with 1 year of service post-confirmation can take an interest-free advance of up to 1 month's Basic salary, with management sanction. Only one advance per financial year.
+
+REIMBURSEMENTS
+
+Q58: How do I claim internet reimbursement?
+A: Internet allowance is reimbursed monthly against bills, up to Rs. 750/Rs. 1,500/Rs. 2,000 depending on your salary band. You must structure this allowance at the start of the financial year or at joining, and submit bills in your name for the relevant month to Finance.
+
+Q59: What is the L&D budget and how do I use it?
+A: Each permanent employee gets Rs. 50,000 per financial year for courses, certifications, conferences, and learning materials. You need manager and HR approval before spending, and reimbursement is processed within 15 working days of submitting valid receipts.
+
+Q60: What happens if I resign shortly after getting a certification reimbursed?
+A: Company-funded certifications carry a 12-month retention obligation. If you resign within 12 months of reimbursement, a pro-rata recovery is made from your Full and Final settlement.
+
+Q61: What is covered under the Professional Development Allowance?
+A: Professionally relevant books, e-books, training, conferences, and seminars, reimbursed monthly up to Rs. 2,000/Rs. 5,000/Rs. 7,000 depending on your salary band, with prior Reporting Officer approval for training/seminar attendance.
+
+Q62: How does LTA work?
+A: LTA covers only the actual travel fare (not lodging) for travel within India via the shortest route, by economy flight or 2nd AC train. You must be on Earned Leave for at least 3 continuous days, and can claim it only once per year.
+
+Q63: Can I claim LTA for international travel?
+A: No, LTA is applicable only for travel within India.
+
+Q64: How many times can I claim LTA in a 4-year block?
+A: The tax exemption covers 2 journeys per 4-year block (current block: 2022-2025), but you can claim reimbursement only once per calendar year.
+
+Q65: What if I don't use my full declared LTA amount?
+A: The unused balance is paid out with your March salary, after applicable tax deductions.
+
+Q66: How is HRA calculated?
+A: HRA is 50% of your Basic salary, paid monthly. The tax-exempt portion is the lowest of: actual HRA received, actual rent paid minus 10% of Basic, or 40% of Basic. Rent receipts are required.
+
+Q67: Can I claim both the salary-structure internet allowance and a separate official internet reimbursement?
+A: No. You cannot claim a separate reimbursement for an expense category already covered in your salary structure.
+
+TRAVEL
+
+Q68: Do I need approval before booking official travel?
+A: Yes, written approval from your Functional Head or Director is required before booking.
+
+Q69: What is my hotel limit for domestic travel?
+A: Depends on your travel category: A1 - Rs. 10,000/night, A2 - Rs. 7,500/night, A3 - Rs. 6,000/night, A4 - Rs. 4,000/night.
+
+Q70: What class of train/flight am I entitled to for domestic travel?
+A: A1: Economy flight (under 6 hours) or Business (over 6 hours); A2: Economy flight or 2nd AC train; A3 and A4: Economy flight or 3rd AC train.
+
+Q71: Can I take a travel advance?
+A: Only non-managerial staff (A4) can take a domestic travel advance, which must be adjusted within 7 days of return. Managerial/academic staff (A1-A3) claim reimbursement only.
+
+Q72: What is the local conveyance reimbursement rate for using my own vehicle?
+A: Rs. 5.00/km for two-wheelers and Rs. 12.00/km for four-wheelers, for official travel other than your regular commute.
+
+Q73: How soon must I submit travel bills after returning?
+A: Within 1 week for domestic travel; international travel cash advances must be adjusted within 10 days.
+
+Q74: Am I covered for vaccinations and travel insurance for international travel?
+A: Yes, immunisation costs and international travel insurance for official travel are borne by the company on actuals.
+
+Q75: Can I stay with friends/family during international travel?
+A: Yes, with original bills, subject to case-by-case Director approval.
+
+PERFORMANCE MANAGEMENT
+
+Q76: When are performance goals set?
+A: At the start of the financial year, in April, following the SMART framework, with a maximum of 5 goals weighted 10-30% each, totaling 100%.
+
+Q77: When are performance reviews conducted?
+A: A Mid-Year Review in October and an Annual Performance Review in January.
+
+Q78: What is the performance rating scale?
+A: A 5-point scale: 5 (Champion), 4 (Long Strider), 3 (Emerging), 2 (Amateur), 1 (Pull Up). No decimal ratings are given.
+
+Q79: Who is eligible for an annual increment?
+A: Employees rated 3 or above on the Annual Performance Review. Salary revisions are effective from 1 February.
+
+Q80: How is Performance Pay calculated?
+A: As a percentage of Annual CTC based on your rating and CTC band: above Rs. 40 lakh = 12.5%, Rs. 26-40 lakh = 10%, Rs. 16-25 lakh = 7.5%, Rs. 8-15 lakh = 5%, below Rs. 7 lakh = 0%. Paid in April and October.
+
+Q81: What happens if I'm rated 1 or 2?
+A: You are placed on a Performance Improvement Plan (PIP) with redefined 6-month goals, a mid-term review after 3 months, and re-appraisal at the end. A rating of 1 means no increment and no performance pay.
+
+Q82: What are the eligibility criteria for promotion?
+A: A minimum of 18 months in your current role and an average performance score of at least 4 out of 5, with recommendations reviewed by the Level Review Committee. Promotions are effective from 1 April.
+
+Q83: What if I disagree with my performance rating?
+A: You can raise a grievance with HR, which is referred to the relevant Function Head, who forms an independent panel to review your case and may recommend a rating change, subject to management approval.
+
+Q84: How are new joiners appraised?
+A: If they complete more than 6 months of service before the financial year ends, they are appraised in the next cycle on a pro-rata basis against goals set at joining.
+
+Q85: How are transferred employees appraised?
+A: By both reporting officers - covering the period worked under each function.
+
+Q86: Am I eligible for performance pay if I resign?
+A: If you resign after the Annual Appraisal Cycle is completed, you remain eligible for Performance Pay with your Full and Final settlement, subject to a clean handover and policy compliance.
+
+POSH AND ETHICS
+
+Q87: What is the POSH process?
+A: File a complaint with the Internal Complaints Committee (ICC) verbally, by phone, or email within 3 months of the incident (extendable by 3 more months at the ICC's discretion). The ICC may attempt conciliation if requested; otherwise, a formal inquiry follows, with the respondent given 10 working days to reply, both parties heard, and the entire process concluded within 90 days.
+
+Q88: Is POSH training mandatory?
+A: Yes, annual POSH awareness training is mandatory for all employees.
+
+Q89: What happens if my POSH complaint is found to be false?
+A: Action ranging from counselling to termination, and possible salary deductions or police reporting, may be taken against the complainant, depending on severity.
+
+Q90: Can I request a transfer during a POSH inquiry?
+A: Yes, the complainant can request a transfer of themselves or the respondent, or up to 3 months of leave, subject to ICC approval.
+
+Q91: What is the gift acceptance limit?
+A: Gifts above Rs. 2,000 in value from vendors or clients must be declared to HR and Finance and may not be accepted without declaration.
+
+Q92: Can my family member work in my reporting chain?
+A: No. The Anti-Nepotism Policy prohibits a supervisor-subordinate relationship between immediate family members.
+
+Q93: Do I need approval for outside employment?
+A: Yes, written approval from your Department Head is required before undertaking any outside work activity.
+
+GRIEVANCE AND TICKETS
+
+Q94: How do I raise a grievance?
+A: First, try direct discussion with the person involved or your Reporting Officer. If unresolved within 5 working days, submit a written complaint to HR via the Grievance Portal. If still unresolved, it escalates to the Grievance Redressal Committee.
+
+Q95: How long does HR take to acknowledge a grievance?
+A: Within 2 working days, with investigation starting within 5 working days and resolution communicated within 30 working days.
+
+Q96: What if I face retaliation after raising a grievance?
+A: Report it to HR immediately. Retaliation is strictly prohibited and treated as a separate, serious disciplinary offence.
+
+Q97: How do I raise an HR ticket?
+A: Via the HRMS Ticketing Portal, by emailing hr.support@company.com, or via the AI HR Assistant, providing your Employee ID, ticket category, and issue description. You'll receive a Ticket ID for tracking.
+
+Q98: What are the resolution timelines for HR tickets?
+A: Simple queries: 2 working days. Standard requests: 5 working days. Complex requests: 10 working days. Grievances: up to 30 working days. POSH complaints: up to 90 days.
+
+Q99: What does "Pending Employee Response" ticket status mean?
+A: HR needs more information from you; the SLA clock pauses until you respond.
+
+Q100: When does a ticket get automatically closed?
+A: 3 working days after being marked "Resolved," if you don't respond.
+
+Q101: Can I reopen a closed ticket?
+A: Yes, within 7 days of closure, if the issue recurs or wasn't fully resolved. After 7 days, you must raise a new ticket.
+
+RESIGNATION, EXIT, AND NOTICE PERIOD
+
+Q102: What is my notice period?
+A: 60 calendar days for confirmed employees, 90 calendar days for Senior Manager level and above, and 30 calendar days during probation.
+
+Q103: Can the company waive my notice period?
+A: Yes, at its discretion, the company may waive or shorten the notice period and pay out the balance, or ask you to leave early with pay in lieu of the remaining notice.
+
+Q104: Can I use Earned Leave during my notice period?
+A: Yes, up to 1.5 days per month.
+
+Q105: Can I take Casual Leave during my notice period?
+A: No, Casual Leave is not available during the notice period.
+
+Q106: Is Medical Leave available during the notice period?
+A: Yes, with valid medical documentation.
+
+Q107: What happens to my unused Earned Leave when I resign?
+A: It is encashed based on the average Basic salary of the last 10 months, subject to the 30-day cap.
+
+Q108: Is Casual Leave or Medical Leave encashed at resignation?
+A: No, neither is encashable at any time.
+
+Q109: What is the exit process?
+A: Submit a written resignation to your Reporting Officer and HR, serve your notice period, complete knowledge transfer, obtain no-dues clearance from IT/Finance/HR, attend an exit interview, and return all company assets. Your Full and Final settlement is processed within 45 days of your last working day.
+
+Q110: What is included in the Full and Final (FnF) settlement?
+A: Last month's salary, encashment of accrued Earned Leave (up to 30 days), and applicable gratuity (if eligible).
+
+Q111: What if I don't return my laptop or ID card?
+A: The assessed value of unreturned assets will be recovered from your FnF settlement.
+
+Q112: What is the retirement age?
+A: 60 years for all employees. Earned Leave is encashed at gross salary upon retirement.
+
+Q113: Am I bound by confidentiality after I leave the company?
+A: Yes, confidentiality and NDA obligations continue indefinitely. A 12-month non-solicitation clause may also apply, where included in your contract.
+
+INFORMATION SECURITY
+
+Q114: How often must I change my password?
+A: Every 90 days. Passwords must be at least 12 characters with uppercase, lowercase, numbers, and special characters.
+
+Q115: Is MFA mandatory?
+A: Yes, for company email, HR/payroll systems, remote server access, and cloud platforms. It must never be bypassed.
+
+Q116: Can I use my own device to access company systems?
+A: Only with IT approval for VPN installation; company data must never be stored on unsecured personal devices.
+
+Q117: What should I do if I suspect a data breach?
+A: Report it immediately to the Information Security team via the designated incident reporting channel.
+
+Q118: Can I use company email for personal purposes?
+A: No, personal use of the company email system is prohibited, and the company may monitor all email content.
+
+EMPLOYEE DATA, VERIFICATION, AND PAYROLL
+
+Q119: How do I update my address or phone number?
+A: Self-update via the HRMS Employee Self-Service (ESS) portal; changes take effect immediately, subject to HR verification within 3 working days.
+
+Q120: How do I update my name after marriage?
+A: Submit a supporting legal document (marriage certificate or gazette notification) to HR for verification before the HRMS record is updated.
+
+Q121: How do I update my bank account for salary?
+A: Submit a request via the HRMS Payroll Module with a cancelled cheque or bank statement. Updates take effect from the next payroll cycle; submissions after the 20th of the month may carry over to the following cycle.
+
+Q122: How do I update my emergency contact?
+A: Update it anytime via the ESS portal; no approval is needed.
+
+Q123: When are payslips available?
+A: By the 5th working day of the following month, downloadable in PDF for any past month.
+
+Q124: When is Form 16 available?
+A: By 15 June each year for the preceding financial year.
+
+Q125: What should I do if my salary is incorrect?
+A: Raise a "Payroll and Salary" HR ticket within 5 working days of the salary credit date, specifying the expected and received amounts. The Payroll team responds within 5 working days.
+
+Q126: How is a salary correction processed?
+A: The Payroll team verifies the discrepancy against your salary structure, attendance, leave, and reimbursements. If confirmed, the Payroll Manager approves the correction, applied in the next payroll cycle or via an off-cycle payment for urgent cases.
+
+Q127: How do I check if I am an "Active" or "Inactive" employee?
+A: You are Active if you are currently on payroll (including probation and notice period). You become Inactive the day after your last working day, once HR processes your exit. Inactive employees can only access FnF status, past payslips, Form 16, and post-separation queries.
+
+Q128: Can the AI HR Assistant tell me about another employee's salary or leave balance?
+A: No. The assistant will never disclose another employee's personal, payroll, or performance data under any circumstances.
+
+Q129: What format is my Employee ID in?
+A: EMP followed by a 5-digit number, e.g., EMP00123. This ID is required for all HR self-service actions.
+
+Q130: I am an Inactive employee - can I still apply for leave or reimbursements?
+A: No. Inactive employees cannot apply for leave, WFH, or reimbursements. They can only view FnF status, download payslips/Form 16, and raise post-separation queries (PF, gratuity, experience letter).

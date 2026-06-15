@@ -1,0 +1,101 @@
+grievance_id,employee_id,grievance_type,description,status,priority,created_at
+GRV-10001,EMP408,Manager Misconduct,Manager Misconduct complaint raised by EMP408.,Under Investigation,High,2024-04-27 15:27:00
+GRV-10002,EMP518,Ethics Complaint,Ethics Complaint complaint raised by EMP518.,Closed,High,2023-06-09 15:01:00
+GRV-10003,EMP781,Manager Misconduct,Manager Misconduct complaint raised by EMP781.,Closed,High,2023-03-27 12:38:00
+GRV-10004,EMP551,Discrimination,Discrimination complaint raised by EMP551.,Under Investigation,High,2023-09-21 14:29:00
+GRV-10005,EMP314,Manager Misconduct,Manager Misconduct complaint raised by EMP314.,Resolved,High,2024-01-20 16:38:00
+GRV-10006,EMP493,Harassment,Harassment complaint raised by EMP493.,Resolved,High,2023-05-20 15:12:00
+GRV-10007,EMP159,Discrimination,Discrimination complaint raised by EMP159.,Escalated,High,2023-01-14 16:46:00
+GRV-10008,EMP743,Bullying,Bullying complaint raised by EMP743.,Closed,High,2024-02-19 14:25:00
+GRV-10009,EMP994,Hostile Environment,Hostile Environment complaint raised by EMP994.,Resolved,High,2024-01-29 15:19:00
+GRV-10010,EMP657,Ethics Complaint,Ethics Complaint complaint raised by EMP657.,Escalated,High,2024-02-23 08:58:00
+GRV-10011,EMP128,Manager Misconduct,Manager Misconduct complaint raised by EMP128.,Under Investigation,High,2023-07-18 14:16:00
+GRV-10012,EMP790,Hostile Environment,Hostile Environment complaint raised by EMP790.,Resolved,High,2024-06-05 15:40:00
+GRV-10013,EMP706,Bullying,Bullying complaint raised by EMP706.,Escalated,High,2024-10-28 14:59:00
+GRV-10014,EMP435,Hostile Environment,Hostile Environment complaint raised by EMP435.,Under Investigation,High,2023-09-06 15:02:00
+GRV-10015,EMP944,Bullying,Bullying complaint raised by EMP944.,Escalated,High,2024-12-15 18:41:00
+GRV-10016,EMP152,Bullying,Bullying complaint raised by EMP152.,Closed,High,2024-11-28 10:16:00
+GRV-10017,EMP254,Ethics Complaint,Ethics Complaint complaint raised by EMP254.,Under Investigation,High,2023-01-13 09:49:00
+GRV-10018,EMP095,Hostile Environment,Hostile Environment complaint raised by EMP095.,Closed,High,2024-02-12 17:57:00
+GRV-10019,EMP083,Ethics Complaint,Ethics Complaint complaint raised by EMP083.,Under Investigation,High,2024-03-09 10:53:00
+GRV-10020,EMP438,Bullying,Bullying complaint raised by EMP438.,Resolved,High,2024-05-27 16:42:00
+GRV-10021,EMP908,Manager Misconduct,Manager Misconduct complaint raised by EMP908.,Resolved,High,2024-02-26 09:06:00
+GRV-10022,EMP652,Ethics Complaint,Ethics Complaint complaint raised by EMP652.,Resolved,High,2023-05-27 12:47:00
+GRV-10023,EMP215,Hostile Environment,Hostile Environment complaint raised by EMP215.,Closed,High,2024-12-16 12:00:00
+GRV-10024,EMP173,Manager Misconduct,Manager Misconduct complaint raised by EMP173.,Escalated,High,2023-04-10 09:49:00
+GRV-10025,EMP714,Manager Misconduct,Manager Misconduct complaint raised by EMP714.,Closed,High,2024-11-01 12:46:00
+GRV-10026,EMP442,Discrimination,Discrimination complaint raised by EMP442.,Under Investigation,High,2024-01-19 10:45:00
+GRV-10027,EMP138,Discrimination,Discrimination complaint raised by EMP138.,Closed,High,2023-07-06 16:07:00
+GRV-10028,EMP462,Ethics Complaint,Ethics Complaint complaint raised by EMP462.,Under Investigation,High,2023-07-10 11:03:00
+GRV-10029,EMP768,Discrimination,Discrimination complaint raised by EMP768.,Under Investigation,High,2023-09-23 14:28:00
+GRV-10030,EMP642,Ethics Complaint,Ethics Complaint complaint raised by EMP642.,Escalated,High,2024-10-13 10:05:00
+GRV-10031,EMP301,Harassment,Harassment complaint raised by EMP301.,Closed,High,2023-05-08 12:04:00
+GRV-10032,EMP351,Harassment,Harassment complaint raised by EMP351.,Under Investigation,High,2024-05-04 15:43:00
+GRV-10033,EMP779,Harassment,Harassment complaint raised by EMP779.,Escalated,High,2023-03-04 12:48:00
+GRV-10034,EMP979,Harassment,Harassment complaint raised by EMP979.,Escalated,High,2023-04-10 11:33:00
+GRV-10035,EMP811,Harassment,Harassment complaint raised by EMP811.,Closed,High,2024-09-09 16:48:00
+GRV-10036,EMP273,Manager Misconduct,Manager Misconduct complaint raised by EMP273.,Closed,High,2023-12-12 17:27:00
+GRV-10037,EMP345,Bullying,Bullying complaint raised by EMP345.,Resolved,High,2023-11-19 11:23:00
+GRV-10038,EMP682,Manager Misconduct,Manager Misconduct complaint raised by EMP682.,Closed,High,2024-09-17 08:22:00
+GRV-10039,EMP895,Bullying,Bullying complaint raised by EMP895.,Escalated,High,2023-01-04 15:55:00
+GRV-10040,EMP716,Manager Misconduct,Manager Misconduct complaint raised by EMP716.,Under Investigation,High,2023-01-27 17:07:00
+GRV-10041,EMP890,Ethics Complaint,Ethics Complaint complaint raised by EMP890.,Resolved,High,2024-12-17 11:23:00
+GRV-10042,EMP463,Ethics Complaint,Ethics Complaint complaint raised by EMP463.,Closed,High,2024-06-11 14:42:00
+GRV-10043,EMP193,Harassment,Harassment complaint raised by EMP193.,Resolved,High,2023-01-18 18:23:00
+GRV-10044,EMP895,Harassment,Harassment complaint raised by EMP895.,Resolved,High,2024-11-25 15:14:00
+GRV-10045,EMP622,Manager Misconduct,Manager Misconduct complaint raised by EMP622.,Closed,High,2024-09-19 09:22:00
+GRV-10046,EMP439,Manager Misconduct,Manager Misconduct complaint raised by EMP439.,Escalated,High,2024-01-30 12:38:00
+GRV-10047,EMP200,Hostile Environment,Hostile Environment complaint raised by EMP200.,Under Investigation,High,2024-06-16 17:50:00
+GRV-10048,EMP878,Hostile Environment,Hostile Environment complaint raised by EMP878.,Escalated,High,2023-05-11 15:50:00
+GRV-10049,EMP090,Bullying,Bullying complaint raised by EMP090.,Closed,High,2023-06-22 15:07:00
+GRV-10050,EMP494,Hostile Environment,Hostile Environment complaint raised by EMP494.,Under Investigation,High,2023-09-07 11:10:00
+GRV-10051,EMP772,Hostile Environment,Hostile Environment complaint raised by EMP772.,Escalated,High,2023-04-19 14:45:00
+GRV-10052,EMP030,Discrimination,Discrimination complaint raised by EMP030.,Resolved,High,2024-01-28 12:14:00
+GRV-10053,EMP737,Bullying,Bullying complaint raised by EMP737.,Closed,High,2024-11-17 09:42:00
+GRV-10054,EMP140,Ethics Complaint,Ethics Complaint complaint raised by EMP140.,Closed,High,2023-04-03 13:55:00
+GRV-10055,EMP230,Ethics Complaint,Ethics Complaint complaint raised by EMP230.,Escalated,High,2024-10-21 13:24:00
+GRV-10056,EMP933,Hostile Environment,Hostile Environment complaint raised by EMP933.,Closed,High,2024-10-31 18:50:00
+GRV-10057,EMP576,Manager Misconduct,Manager Misconduct complaint raised by EMP576.,Under Investigation,High,2023-08-17 12:07:00
+GRV-10058,EMP298,Harassment,Harassment complaint raised by EMP298.,Escalated,High,2023-04-02 13:47:00
+GRV-10059,EMP607,Discrimination,Discrimination complaint raised by EMP607.,Escalated,High,2024-08-09 13:08:00
+GRV-10060,EMP874,Bullying,Bullying complaint raised by EMP874.,Closed,High,2024-08-13 08:19:00
+GRV-10061,EMP064,Ethics Complaint,Ethics Complaint complaint raised by EMP064.,Under Investigation,High,2024-02-02 14:20:00
+GRV-10062,EMP790,Bullying,Bullying complaint raised by EMP790.,Under Investigation,High,2024-06-16 18:38:00
+GRV-10063,EMP605,Discrimination,Discrimination complaint raised by EMP605.,Escalated,High,2024-02-09 08:34:00
+GRV-10064,EMP873,Manager Misconduct,Manager Misconduct complaint raised by EMP873.,Resolved,High,2023-05-29 12:53:00
+GRV-10065,EMP225,Manager Misconduct,Manager Misconduct complaint raised by EMP225.,Closed,High,2023-05-31 17:18:00
+GRV-10066,EMP150,Hostile Environment,Hostile Environment complaint raised by EMP150.,Escalated,High,2024-09-05 13:19:00
+GRV-10067,EMP515,Hostile Environment,Hostile Environment complaint raised by EMP515.,Escalated,High,2023-10-08 17:30:00
+GRV-10068,EMP647,Discrimination,Discrimination complaint raised by EMP647.,Closed,High,2023-10-26 14:03:00
+GRV-10069,EMP830,Bullying,Bullying complaint raised by EMP830.,Under Investigation,High,2023-08-04 11:44:00
+GRV-10070,EMP754,Harassment,Harassment complaint raised by EMP754.,Under Investigation,High,2024-05-14 14:19:00
+GRV-10071,EMP835,Hostile Environment,Hostile Environment complaint raised by EMP835.,Under Investigation,High,2023-01-23 16:25:00
+GRV-10072,EMP346,Manager Misconduct,Manager Misconduct complaint raised by EMP346.,Closed,High,2023-12-23 14:25:00
+GRV-10073,EMP074,Ethics Complaint,Ethics Complaint complaint raised by EMP074.,Resolved,High,2023-10-17 11:44:00
+GRV-10074,EMP877,Ethics Complaint,Ethics Complaint complaint raised by EMP877.,Closed,High,2023-04-10 10:20:00
+GRV-10075,EMP771,Ethics Complaint,Ethics Complaint complaint raised by EMP771.,Escalated,High,2024-12-27 12:29:00
+GRV-10076,EMP671,Discrimination,Discrimination complaint raised by EMP671.,Under Investigation,High,2024-03-28 15:18:00
+GRV-10077,EMP919,Discrimination,Discrimination complaint raised by EMP919.,Under Investigation,High,2023-08-12 11:47:00
+GRV-10078,EMP667,Harassment,Harassment complaint raised by EMP667.,Resolved,High,2024-08-12 09:43:00
+GRV-10079,EMP805,Discrimination,Discrimination complaint raised by EMP805.,Closed,High,2024-03-13 18:53:00
+GRV-10080,EMP173,Harassment,Harassment complaint raised by EMP173.,Escalated,High,2023-12-31 15:11:00
+GRV-10081,EMP968,Harassment,Harassment complaint raised by EMP968.,Escalated,High,2024-06-11 18:21:00
+GRV-10082,EMP608,Manager Misconduct,Manager Misconduct complaint raised by EMP608.,Under Investigation,High,2024-10-04 14:15:00
+GRV-10083,EMP035,Harassment,Harassment complaint raised by EMP035.,Under Investigation,High,2024-02-11 15:19:00
+GRV-10084,EMP705,Ethics Complaint,Ethics Complaint complaint raised by EMP705.,Under Investigation,High,2024-10-30 14:49:00
+GRV-10085,EMP709,Hostile Environment,Hostile Environment complaint raised by EMP709.,Escalated,High,2024-04-19 18:24:00
+GRV-10086,EMP282,Hostile Environment,Hostile Environment complaint raised by EMP282.,Closed,High,2024-01-12 08:07:00
+GRV-10087,EMP120,Harassment,Harassment complaint raised by EMP120.,Escalated,High,2024-05-15 18:42:00
+GRV-10088,EMP931,Ethics Complaint,Ethics Complaint complaint raised by EMP931.,Under Investigation,High,2023-01-24 17:36:00
+GRV-10089,EMP587,Manager Misconduct,Manager Misconduct complaint raised by EMP587.,Resolved,High,2024-12-11 09:50:00
+GRV-10090,EMP608,Discrimination,Discrimination complaint raised by EMP608.,Closed,High,2024-05-10 18:44:00
+GRV-10091,EMP445,Bullying,Bullying complaint raised by EMP445.,Under Investigation,High,2023-04-12 13:04:00
+GRV-10092,EMP731,Ethics Complaint,Ethics Complaint complaint raised by EMP731.,Under Investigation,High,2024-02-20 08:25:00
+GRV-10093,EMP570,Ethics Complaint,Ethics Complaint complaint raised by EMP570.,Closed,High,2023-03-07 16:53:00
+GRV-10094,EMP599,Ethics Complaint,Ethics Complaint complaint raised by EMP599.,Escalated,High,2023-08-01 18:57:00
+GRV-10095,EMP121,Discrimination,Discrimination complaint raised by EMP121.,Under Investigation,High,2023-01-06 16:28:00
+GRV-10096,EMP820,Bullying,Bullying complaint raised by EMP820.,Escalated,High,2023-02-10 10:36:00
+GRV-10097,EMP212,Hostile Environment,Hostile Environment complaint raised by EMP212.,Under Investigation,High,2023-03-31 16:16:00
+GRV-10098,EMP872,Harassment,Harassment complaint raised by EMP872.,Escalated,High,2023-05-08 16:19:00
+GRV-10099,EMP373,Ethics Complaint,Ethics Complaint complaint raised by EMP373.,Under Investigation,High,2024-03-09 18:00:00
+GRV-10100,EMP255,Bullying,Bullying complaint raised by EMP255.,Escalated,High,2024-06-15 12:42:00

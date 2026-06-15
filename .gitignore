@@ -1,0 +1,35 @@
+# Environment Variables
+.env
+.env.*
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+hr.db
+
+# FAISS
+data/faiss_index/
+*.faiss
+*.pkl
+
+# Logs
+*.log
+
+# Streamlit Secrets
+.streamlit/secrets.toml

@@ -1,0 +1,31 @@
+timestamp,employee_id,intent,query,tools_used,status
+2026-06-14 21:56:27,EMP001,Intent.POLICY_QUERY,What is the WFH policy?,summarize_policy,success
+2026-06-14 21:56:41,EMP001,Intent.UNKNOWN, How many leave days do I have?,"validate_employee, get_leave_balance",success
+2026-06-14 21:57:04,EMP001,SUPPORT_REQUEST, I need a salary certificate,none,awaiting_confirmation
+2026-06-14 21:57:11,EMP001,PendingAction.TICKET,The employee has confirmed. Please proceed to create_hr_ticket for the following issue:  I need a salary certificate,create_hr_ticket,success
+2026-06-14 21:58:05,EMP001,Intent.UNKNOWN,show my tickets,none,success
+2026-06-14 22:02:01,EMP002,Intent.POLICY_QUERY,What is the notice period?,summarize_policy,success
+2026-06-14 22:02:31,EMP002,Intent.POLICY_QUERY,"i want to resign today , could you adjust my notice period ",none,success
+2026-06-14 22:02:39,EMP002,Intent.UNKNOWN,yes,create_hr_ticket,success
+2026-06-14 23:13:35,EMP002,What is my notice period?,none,success
+2026-06-14 23:32:52,EMP002,what is my notice period,none,success
+2026-06-14 23:35:06,EMP002,what is my notice period,search_policy,success
+2026-06-14 23:36:45,EMP001, Show my leave balance,"get_leave_balance, get_employee_profile",success
+2026-06-14 23:37:21,EMP001,My manager is bullying me,none,success
+2026-06-14 23:38:06,EMP001,yes,"create_grievance, get_employee_profile",success
+2026-06-14 23:52:59,EMP001, Show my profile,get_employee_profile,success
+2026-06-14 23:53:33,EMP001, What is my notice period?,search_policy,success
+2026-06-14 23:57:21,EMP001,Show my leave balance,"get_leave_balance, get_employee_profile",success
+2026-06-15 10:47:33,EMP001, Show my leave balance,none,success
+2026-06-15 10:54:47,EMP001, What is the WFH policy?,none,success
+2026-06-15 10:57:11,EMP001,What is the WFH policy?,search_policy,success
+2026-06-15 10:57:25,EMP001,Show my leave balance,get_leave_balance,success
+2026-06-15 10:57:42,EMP001,I need a salary certificate,none,success
+2026-06-15 10:58:19,EMP001,yes,create_hr_ticket,success
+2026-06-15 10:58:35,EMP001,get ticket status ,get_ticket_status,success
+2026-06-15 10:59:44,EMP001,"i want to resign , tell me my notice period, manager details and exit process",none,success
+2026-06-15 11:00:53,EMP001,"i am resigning today, would you like to adjust my leave with the notice period. what is my notice period now?","get_employee_profile, search_policy, get_leave_balance",success
+2026-06-15 11:02:28,EMP001,"I want to resign,
+tell me my notice period,
+manager details
+and exit process",search_policy,success

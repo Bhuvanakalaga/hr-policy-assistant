@@ -1,0 +1,301 @@
+ticket_id,employee_id,category,description,status,priority,created_at
+TKT-10001,EMP898,Salary Certificate,Salary Certificate request raised by EMP898.,In Progress,High,2023-09-25 16:04:00
+TKT-10002,EMP361,Employment Verification,Employment Verification request raised by EMP361.,Resolved,Normal,2024-12-12 08:48:00
+TKT-10003,EMP054,General HR Query,General HR Query request raised by EMP054.,In Progress,High,2024-03-30 18:08:00
+TKT-10004,EMP004,Employment Verification,Employment Verification request raised by EMP004.,In Progress,High,2023-11-09 13:36:00
+TKT-10005,EMP085,Salary Certificate,Salary Certificate request raised by EMP085.,In Progress,Low,2024-06-12 18:48:00
+TKT-10006,EMP134,Benefits Support,Benefits Support request raised by EMP134.,Closed,Normal,2024-04-07 15:55:00
+TKT-10007,EMP753,Reimbursement,Reimbursement request raised by EMP753.,Resolved,Low,2024-12-04 17:52:00
+TKT-10008,EMP336,Payroll Issue,Payroll Issue request raised by EMP336.,In Progress,Low,2024-02-29 13:11:00
+TKT-10009,EMP403,Employment Verification,Employment Verification request raised by EMP403.,In Progress,Low,2023-01-24 16:41:00
+TKT-10010,EMP627,General HR Query,General HR Query request raised by EMP627.,In Progress,Low,2024-04-18 11:16:00
+TKT-10011,EMP719,Reimbursement,Reimbursement request raised by EMP719.,Open,Normal,2024-09-24 14:38:00
+TKT-10012,EMP267,Reimbursement,Reimbursement request raised by EMP267.,Open,Normal,2023-06-24 17:07:00
+TKT-10013,EMP015,General HR Query,General HR Query request raised by EMP015.,Closed,Normal,2024-11-20 15:07:00
+TKT-10014,EMP230,General HR Query,General HR Query request raised by EMP230.,In Progress,Low,2023-09-30 12:47:00
+TKT-10015,EMP507,Employment Verification,Employment Verification request raised by EMP507.,In Progress,Normal,2023-07-31 17:13:00
+TKT-10016,EMP844,Payroll Issue,Payroll Issue request raised by EMP844.,In Progress,Normal,2023-07-04 14:50:00
+TKT-10017,EMP150,Salary Certificate,Salary Certificate request raised by EMP150.,Resolved,Normal,2023-08-30 17:28:00
+TKT-10018,EMP930,Reimbursement,Reimbursement request raised by EMP930.,Resolved,High,2024-12-01 18:29:00
+TKT-10019,EMP088,Salary Certificate,Salary Certificate request raised by EMP088.,Closed,Low,2023-11-28 14:43:00
+TKT-10020,EMP218,General HR Query,General HR Query request raised by EMP218.,Closed,High,2024-03-09 17:16:00
+TKT-10021,EMP075,Salary Certificate,Salary Certificate request raised by EMP075.,Open,Low,2023-12-07 11:30:00
+TKT-10022,EMP931,Payroll Issue,Payroll Issue request raised by EMP931.,Open,Low,2023-09-17 16:39:00
+TKT-10023,EMP391,Payroll Issue,Payroll Issue request raised by EMP391.,Closed,High,2024-01-15 10:57:00
+TKT-10024,EMP573,Salary Certificate,Salary Certificate request raised by EMP573.,In Progress,Normal,2023-06-23 16:31:00
+TKT-10025,EMP953,Payroll Issue,Payroll Issue request raised by EMP953.,Closed,Low,2023-04-02 13:45:00
+TKT-10026,EMP544,Employment Verification,Employment Verification request raised by EMP544.,In Progress,Normal,2023-04-30 13:02:00
+TKT-10027,EMP131,Employment Verification,Employment Verification request raised by EMP131.,Resolved,High,2024-01-05 14:18:00
+TKT-10028,EMP925,Payroll Issue,Payroll Issue request raised by EMP925.,Resolved,High,2023-11-17 14:57:00
+TKT-10029,EMP169,Payroll Issue,Payroll Issue request raised by EMP169.,Closed,Low,2024-07-23 18:40:00
+TKT-10030,EMP818,Employment Verification,Employment Verification request raised by EMP818.,Open,Low,2023-06-02 08:14:00
+TKT-10031,EMP188,Salary Certificate,Salary Certificate request raised by EMP188.,Closed,Normal,2023-06-17 15:27:00
+TKT-10032,EMP119,Employment Verification,Employment Verification request raised by EMP119.,Open,Normal,2024-01-01 16:31:00
+TKT-10033,EMP469,Employment Verification,Employment Verification request raised by EMP469.,Open,High,2023-06-01 09:22:00
+TKT-10034,EMP096,Reimbursement,Reimbursement request raised by EMP096.,Resolved,Low,2023-06-22 16:52:00
+TKT-10035,EMP280,Benefits Support,Benefits Support request raised by EMP280.,In Progress,High,2023-01-05 16:49:00
+TKT-10036,EMP585,Reimbursement,Reimbursement request raised by EMP585.,Closed,Low,2023-09-10 15:43:00
+TKT-10037,EMP097,Payroll Issue,Payroll Issue request raised by EMP097.,Open,Normal,2024-11-28 18:07:00
+TKT-10038,EMP404,Payroll Issue,Payroll Issue request raised by EMP404.,Open,Normal,2023-06-07 08:05:00
+TKT-10039,EMP472,General HR Query,General HR Query request raised by EMP472.,Closed,Normal,2024-10-05 12:38:00
+TKT-10040,EMP674,Salary Certificate,Salary Certificate request raised by EMP674.,Resolved,Low,2024-11-02 17:28:00
+TKT-10041,EMP333,General HR Query,General HR Query request raised by EMP333.,In Progress,Low,2023-02-19 18:18:00
+TKT-10042,EMP331,Salary Certificate,Salary Certificate request raised by EMP331.,Open,High,2024-09-08 14:05:00
+TKT-10043,EMP409,Payroll Issue,Payroll Issue request raised by EMP409.,In Progress,Low,2024-02-13 09:01:00
+TKT-10044,EMP873,Reimbursement,Reimbursement request raised by EMP873.,In Progress,Normal,2024-02-17 12:41:00
+TKT-10045,EMP771,General HR Query,General HR Query request raised by EMP771.,In Progress,Low,2023-11-02 15:51:00
+TKT-10046,EMP443,General HR Query,General HR Query request raised by EMP443.,Resolved,High,2024-09-09 10:22:00
+TKT-10047,EMP682,Salary Certificate,Salary Certificate request raised by EMP682.,Resolved,High,2023-07-24 15:28:00
+TKT-10048,EMP907,Employment Verification,Employment Verification request raised by EMP907.,Closed,Normal,2024-07-30 17:27:00
+TKT-10049,EMP093,Employment Verification,Employment Verification request raised by EMP093.,Resolved,High,2023-07-10 14:40:00
+TKT-10050,EMP437,Salary Certificate,Salary Certificate request raised by EMP437.,Open,High,2023-12-16 15:43:00
+TKT-10051,EMP230,General HR Query,General HR Query request raised by EMP230.,In Progress,Normal,2024-06-23 18:41:00
+TKT-10052,EMP538,Salary Certificate,Salary Certificate request raised by EMP538.,Resolved,Normal,2024-03-23 09:58:00
+TKT-10053,EMP821,Employment Verification,Employment Verification request raised by EMP821.,Resolved,Low,2023-05-11 18:57:00
+TKT-10054,EMP308,Reimbursement,Reimbursement request raised by EMP308.,Closed,Normal,2024-08-05 08:35:00
+TKT-10055,EMP079,Salary Certificate,Salary Certificate request raised by EMP079.,Open,High,2024-03-11 14:06:00
+TKT-10056,EMP476,General HR Query,General HR Query request raised by EMP476.,Resolved,Normal,2023-09-18 17:05:00
+TKT-10057,EMP788,Benefits Support,Benefits Support request raised by EMP788.,Open,Low,2024-11-08 15:11:00
+TKT-10058,EMP806,Reimbursement,Reimbursement request raised by EMP806.,Closed,Low,2023-03-27 14:56:00
+TKT-10059,EMP722,Payroll Issue,Payroll Issue request raised by EMP722.,Resolved,High,2024-04-10 18:28:00
+TKT-10060,EMP639,Payroll Issue,Payroll Issue request raised by EMP639.,Resolved,Low,2023-08-05 10:05:00
+TKT-10061,EMP765,Benefits Support,Benefits Support request raised by EMP765.,Resolved,High,2023-04-19 14:34:00
+TKT-10062,EMP019,Salary Certificate,Salary Certificate request raised by EMP019.,Closed,Low,2023-01-14 10:41:00
+TKT-10063,EMP489,Employment Verification,Employment Verification request raised by EMP489.,Closed,High,2024-09-08 15:19:00
+TKT-10064,EMP634,Benefits Support,Benefits Support request raised by EMP634.,Resolved,High,2024-11-20 18:25:00
+TKT-10065,EMP824,Payroll Issue,Payroll Issue request raised by EMP824.,Open,Low,2023-05-19 08:12:00
+TKT-10066,EMP115,Salary Certificate,Salary Certificate request raised by EMP115.,In Progress,Low,2023-08-03 15:41:00
+TKT-10067,EMP149,General HR Query,General HR Query request raised by EMP149.,In Progress,Normal,2024-10-03 16:12:00
+TKT-10068,EMP089,Payroll Issue,Payroll Issue request raised by EMP089.,Closed,Low,2024-04-30 14:01:00
+TKT-10069,EMP120,Reimbursement,Reimbursement request raised by EMP120.,In Progress,High,2024-12-20 15:31:00
+TKT-10070,EMP483,Salary Certificate,Salary Certificate request raised by EMP483.,Closed,High,2023-09-06 11:18:00
+TKT-10071,EMP584,Employment Verification,Employment Verification request raised by EMP584.,Open,Normal,2023-01-09 09:40:00
+TKT-10072,EMP868,General HR Query,General HR Query request raised by EMP868.,Closed,Normal,2024-05-22 17:38:00
+TKT-10073,EMP749,Benefits Support,Benefits Support request raised by EMP749.,Resolved,Low,2024-05-14 14:31:00
+TKT-10074,EMP526,Benefits Support,Benefits Support request raised by EMP526.,Closed,Low,2023-03-04 16:01:00
+TKT-10075,EMP433,Benefits Support,Benefits Support request raised by EMP433.,Resolved,High,2023-03-07 12:57:00
+TKT-10076,EMP664,Employment Verification,Employment Verification request raised by EMP664.,Closed,Low,2024-05-21 17:41:00
+TKT-10077,EMP356,Employment Verification,Employment Verification request raised by EMP356.,Closed,Low,2023-06-15 12:46:00
+TKT-10078,EMP197,Employment Verification,Employment Verification request raised by EMP197.,Resolved,Normal,2023-08-26 16:14:00
+TKT-10079,EMP602,General HR Query,General HR Query request raised by EMP602.,Resolved,High,2024-11-03 15:08:00
+TKT-10080,EMP905,Payroll Issue,Payroll Issue request raised by EMP905.,Closed,Normal,2024-11-20 18:47:00
+TKT-10081,EMP369,Employment Verification,Employment Verification request raised by EMP369.,In Progress,High,2023-08-01 12:44:00
+TKT-10082,EMP768,Salary Certificate,Salary Certificate request raised by EMP768.,Closed,Low,2023-06-27 11:10:00
+TKT-10083,EMP621,Employment Verification,Employment Verification request raised by EMP621.,Open,Normal,2024-05-20 12:15:00
+TKT-10084,EMP215,Benefits Support,Benefits Support request raised by EMP215.,Open,Low,2024-01-03 12:22:00
+TKT-10085,EMP694,Reimbursement,Reimbursement request raised by EMP694.,In Progress,High,2023-02-02 09:21:00
+TKT-10086,EMP441,Salary Certificate,Salary Certificate request raised by EMP441.,In Progress,Low,2024-07-29 11:31:00
+TKT-10087,EMP265,Payroll Issue,Payroll Issue request raised by EMP265.,Resolved,Low,2024-07-24 12:57:00
+TKT-10088,EMP155,General HR Query,General HR Query request raised by EMP155.,Open,High,2023-02-21 15:51:00
+TKT-10089,EMP469,Salary Certificate,Salary Certificate request raised by EMP469.,Open,High,2024-09-16 09:52:00
+TKT-10090,EMP576,Salary Certificate,Salary Certificate request raised by EMP576.,Open,Low,2024-10-07 09:55:00
+TKT-10091,EMP211,Payroll Issue,Payroll Issue request raised by EMP211.,In Progress,High,2023-10-27 15:48:00
+TKT-10092,EMP519,Employment Verification,Employment Verification request raised by EMP519.,Open,Low,2024-10-24 13:21:00
+TKT-10093,EMP839,Reimbursement,Reimbursement request raised by EMP839.,Open,Low,2024-03-25 14:49:00
+TKT-10094,EMP788,Salary Certificate,Salary Certificate request raised by EMP788.,In Progress,Normal,2023-12-16 12:32:00
+TKT-10095,EMP176,Salary Certificate,Salary Certificate request raised by EMP176.,Resolved,Normal,2024-02-29 13:40:00
+TKT-10096,EMP681,Reimbursement,Reimbursement request raised by EMP681.,In Progress,High,2024-03-07 11:08:00
+TKT-10097,EMP822,Employment Verification,Employment Verification request raised by EMP822.,Closed,Normal,2024-04-14 16:50:00
+TKT-10098,EMP699,Payroll Issue,Payroll Issue request raised by EMP699.,Open,Normal,2023-05-30 08:45:00
+TKT-10099,EMP826,Benefits Support,Benefits Support request raised by EMP826.,Open,Low,2023-12-13 13:25:00
+TKT-10100,EMP791,Reimbursement,Reimbursement request raised by EMP791.,Closed,Low,2024-02-07 08:42:00
+TKT-10101,EMP945,General HR Query,General HR Query request raised by EMP945.,In Progress,High,2023-03-01 18:45:00
+TKT-10102,EMP819,General HR Query,General HR Query request raised by EMP819.,Resolved,Normal,2024-02-16 18:44:00
+TKT-10103,EMP567,Payroll Issue,Payroll Issue request raised by EMP567.,Resolved,Normal,2023-01-09 12:57:00
+TKT-10104,EMP541,Benefits Support,Benefits Support request raised by EMP541.,In Progress,High,2024-02-18 15:41:00
+TKT-10105,EMP211,Benefits Support,Benefits Support request raised by EMP211.,Closed,High,2023-12-20 18:25:00
+TKT-10106,EMP795,Reimbursement,Reimbursement request raised by EMP795.,Resolved,Low,2023-02-07 16:21:00
+TKT-10107,EMP400,General HR Query,General HR Query request raised by EMP400.,In Progress,High,2024-07-07 12:13:00
+TKT-10108,EMP096,Benefits Support,Benefits Support request raised by EMP096.,Resolved,High,2023-12-15 18:10:00
+TKT-10109,EMP024,Salary Certificate,Salary Certificate request raised by EMP024.,Resolved,Low,2023-11-08 14:32:00
+TKT-10110,EMP114,General HR Query,General HR Query request raised by EMP114.,Open,Normal,2023-09-23 18:32:00
+TKT-10111,EMP363,Salary Certificate,Salary Certificate request raised by EMP363.,Open,High,2023-05-08 15:19:00
+TKT-10112,EMP587,General HR Query,General HR Query request raised by EMP587.,Open,Normal,2023-12-14 11:51:00
+TKT-10113,EMP764,Benefits Support,Benefits Support request raised by EMP764.,In Progress,Normal,2023-11-03 12:42:00
+TKT-10114,EMP804,General HR Query,General HR Query request raised by EMP804.,In Progress,High,2024-01-22 16:47:00
+TKT-10115,EMP254,Salary Certificate,Salary Certificate request raised by EMP254.,Resolved,High,2024-08-19 11:52:00
+TKT-10116,EMP798,Payroll Issue,Payroll Issue request raised by EMP798.,Closed,Low,2023-05-31 14:53:00
+TKT-10117,EMP422,Salary Certificate,Salary Certificate request raised by EMP422.,Open,Low,2024-03-11 10:30:00
+TKT-10118,EMP220,Employment Verification,Employment Verification request raised by EMP220.,Open,Normal,2024-11-24 16:25:00
+TKT-10119,EMP603,Benefits Support,Benefits Support request raised by EMP603.,Closed,Normal,2024-08-21 15:40:00
+TKT-10120,EMP434,Employment Verification,Employment Verification request raised by EMP434.,Closed,High,2024-03-02 10:09:00
+TKT-10121,EMP518,Reimbursement,Reimbursement request raised by EMP518.,Closed,High,2024-04-13 10:45:00
+TKT-10122,EMP526,Benefits Support,Benefits Support request raised by EMP526.,Open,High,2023-08-06 15:30:00
+TKT-10123,EMP034,General HR Query,General HR Query request raised by EMP034.,In Progress,High,2024-01-14 09:38:00
+TKT-10124,EMP873,Employment Verification,Employment Verification request raised by EMP873.,Open,Low,2024-01-14 17:18:00
+TKT-10125,EMP042,Benefits Support,Benefits Support request raised by EMP042.,In Progress,Low,2024-01-16 12:23:00
+TKT-10126,EMP311,Payroll Issue,Payroll Issue request raised by EMP311.,Closed,Low,2023-05-27 10:50:00
+TKT-10127,EMP604,Employment Verification,Employment Verification request raised by EMP604.,Open,Normal,2023-10-18 11:11:00
+TKT-10128,EMP839,General HR Query,General HR Query request raised by EMP839.,Closed,Low,2023-05-06 16:22:00
+TKT-10129,EMP070,Salary Certificate,Salary Certificate request raised by EMP070.,Closed,Normal,2024-08-09 12:36:00
+TKT-10130,EMP464,Payroll Issue,Payroll Issue request raised by EMP464.,Closed,Normal,2024-09-12 10:48:00
+TKT-10131,EMP142,Benefits Support,Benefits Support request raised by EMP142.,Closed,Normal,2024-11-14 15:09:00
+TKT-10132,EMP888,General HR Query,General HR Query request raised by EMP888.,Resolved,Low,2024-10-01 18:39:00
+TKT-10133,EMP420,Employment Verification,Employment Verification request raised by EMP420.,In Progress,Normal,2023-12-14 16:02:00
+TKT-10134,EMP982,General HR Query,General HR Query request raised by EMP982.,Closed,High,2023-10-12 18:05:00
+TKT-10135,EMP887,Reimbursement,Reimbursement request raised by EMP887.,Open,High,2024-10-07 12:35:00
+TKT-10136,EMP661,Salary Certificate,Salary Certificate request raised by EMP661.,Open,Low,2024-09-25 16:36:00
+TKT-10137,EMP776,Salary Certificate,Salary Certificate request raised by EMP776.,In Progress,Normal,2024-05-29 08:07:00
+TKT-10138,EMP675,Benefits Support,Benefits Support request raised by EMP675.,In Progress,Low,2023-10-09 11:15:00
+TKT-10139,EMP850,General HR Query,General HR Query request raised by EMP850.,Closed,Low,2024-06-30 17:20:00
+TKT-10140,EMP412,Benefits Support,Benefits Support request raised by EMP412.,Open,Normal,2023-01-24 13:27:00
+TKT-10141,EMP185,Employment Verification,Employment Verification request raised by EMP185.,Open,High,2023-11-21 14:16:00
+TKT-10142,EMP094,Salary Certificate,Salary Certificate request raised by EMP094.,Open,High,2023-06-22 12:09:00
+TKT-10143,EMP188,Payroll Issue,Payroll Issue request raised by EMP188.,Open,Low,2023-11-11 14:43:00
+TKT-10144,EMP174,Salary Certificate,Salary Certificate request raised by EMP174.,Resolved,Low,2023-01-28 08:19:00
+TKT-10145,EMP400,Salary Certificate,Salary Certificate request raised by EMP400.,Resolved,Low,2024-02-27 13:16:00
+TKT-10146,EMP385,Salary Certificate,Salary Certificate request raised by EMP385.,Open,Low,2023-09-03 17:37:00
+TKT-10147,EMP243,Employment Verification,Employment Verification request raised by EMP243.,Closed,Low,2023-10-03 08:20:00
+TKT-10148,EMP476,Benefits Support,Benefits Support request raised by EMP476.,Closed,Low,2024-05-10 08:26:00
+TKT-10149,EMP649,Reimbursement,Reimbursement request raised by EMP649.,Open,Normal,2024-07-21 17:43:00
+TKT-10150,EMP104,Reimbursement,Reimbursement request raised by EMP104.,In Progress,Normal,2024-08-04 14:28:00
+TKT-10151,EMP086,General HR Query,General HR Query request raised by EMP086.,In Progress,Low,2024-01-18 16:10:00
+TKT-10152,EMP801,Reimbursement,Reimbursement request raised by EMP801.,Closed,High,2024-04-07 08:00:00
+TKT-10153,EMP833,Employment Verification,Employment Verification request raised by EMP833.,Resolved,High,2023-06-21 08:03:00
+TKT-10154,EMP956,Employment Verification,Employment Verification request raised by EMP956.,Resolved,High,2023-09-14 18:24:00
+TKT-10155,EMP360,General HR Query,General HR Query request raised by EMP360.,In Progress,High,2024-06-06 12:02:00
+TKT-10156,EMP166,General HR Query,General HR Query request raised by EMP166.,Open,Normal,2023-04-02 14:44:00
+TKT-10157,EMP126,Reimbursement,Reimbursement request raised by EMP126.,Resolved,Normal,2023-08-04 17:32:00
+TKT-10158,EMP981,Payroll Issue,Payroll Issue request raised by EMP981.,Resolved,High,2023-09-25 15:17:00
+TKT-10159,EMP252,General HR Query,General HR Query request raised by EMP252.,Resolved,Normal,2023-08-04 15:38:00
+TKT-10160,EMP337,Salary Certificate,Salary Certificate request raised by EMP337.,In Progress,High,2023-01-03 17:30:00
+TKT-10161,EMP005,Salary Certificate,Salary Certificate request raised by EMP005.,In Progress,Normal,2024-07-23 15:48:00
+TKT-10162,EMP403,Benefits Support,Benefits Support request raised by EMP403.,Open,High,2024-10-28 09:34:00
+TKT-10163,EMP032,General HR Query,General HR Query request raised by EMP032.,Closed,High,2023-05-07 13:52:00
+TKT-10164,EMP386,Benefits Support,Benefits Support request raised by EMP386.,Resolved,Normal,2023-07-01 08:07:00
+TKT-10165,EMP474,Payroll Issue,Payroll Issue request raised by EMP474.,In Progress,Normal,2023-01-10 11:47:00
+TKT-10166,EMP021,Payroll Issue,Payroll Issue request raised by EMP021.,Resolved,Low,2023-04-03 17:40:00
+TKT-10167,EMP311,General HR Query,General HR Query request raised by EMP311.,In Progress,Low,2024-05-20 13:02:00
+TKT-10168,EMP288,Employment Verification,Employment Verification request raised by EMP288.,In Progress,Low,2023-07-20 18:25:00
+TKT-10169,EMP114,Payroll Issue,Payroll Issue request raised by EMP114.,Closed,Low,2024-07-19 11:42:00
+TKT-10170,EMP757,Benefits Support,Benefits Support request raised by EMP757.,In Progress,Low,2024-08-25 10:47:00
+TKT-10171,EMP067,Reimbursement,Reimbursement request raised by EMP067.,Resolved,High,2023-08-22 16:46:00
+TKT-10172,EMP802,Payroll Issue,Payroll Issue request raised by EMP802.,In Progress,High,2023-01-24 18:34:00
+TKT-10173,EMP630,Payroll Issue,Payroll Issue request raised by EMP630.,Closed,Low,2024-03-13 18:43:00
+TKT-10174,EMP966,General HR Query,General HR Query request raised by EMP966.,Open,Normal,2024-03-18 14:17:00
+TKT-10175,EMP125,General HR Query,General HR Query request raised by EMP125.,Closed,Normal,2024-01-06 16:48:00
+TKT-10176,EMP045,General HR Query,General HR Query request raised by EMP045.,In Progress,Low,2023-10-12 14:34:00
+TKT-10177,EMP460,Payroll Issue,Payroll Issue request raised by EMP460.,Open,Normal,2023-07-19 13:05:00
+TKT-10178,EMP902,Benefits Support,Benefits Support request raised by EMP902.,Open,High,2023-08-20 14:04:00
+TKT-10179,EMP940,Reimbursement,Reimbursement request raised by EMP940.,In Progress,Low,2023-12-04 12:04:00
+TKT-10180,EMP642,General HR Query,General HR Query request raised by EMP642.,Open,Low,2024-05-06 14:51:00
+TKT-10181,EMP025,Benefits Support,Benefits Support request raised by EMP025.,Resolved,Normal,2023-09-11 09:30:00
+TKT-10182,EMP245,Payroll Issue,Payroll Issue request raised by EMP245.,Open,Normal,2024-06-16 11:04:00
+TKT-10183,EMP795,Benefits Support,Benefits Support request raised by EMP795.,Closed,Low,2024-10-02 15:37:00
+TKT-10184,EMP128,Salary Certificate,Salary Certificate request raised by EMP128.,Open,Low,2024-01-22 13:56:00
+TKT-10185,EMP869,General HR Query,General HR Query request raised by EMP869.,Open,Low,2023-03-05 15:03:00
+TKT-10186,EMP309,Benefits Support,Benefits Support request raised by EMP309.,Closed,Low,2023-04-15 18:03:00
+TKT-10187,EMP573,Salary Certificate,Salary Certificate request raised by EMP573.,Resolved,Normal,2024-02-16 09:39:00
+TKT-10188,EMP771,Employment Verification,Employment Verification request raised by EMP771.,In Progress,High,2024-11-06 17:00:00
+TKT-10189,EMP465,Employment Verification,Employment Verification request raised by EMP465.,Closed,Normal,2024-09-27 17:06:00
+TKT-10190,EMP348,General HR Query,General HR Query request raised by EMP348.,Open,Normal,2024-06-13 13:37:00
+TKT-10191,EMP198,Salary Certificate,Salary Certificate request raised by EMP198.,Open,Low,2024-09-01 09:37:00
+TKT-10192,EMP809,Reimbursement,Reimbursement request raised by EMP809.,In Progress,High,2024-06-05 12:22:00
+TKT-10193,EMP432,Employment Verification,Employment Verification request raised by EMP432.,Closed,Low,2023-09-06 10:51:00
+TKT-10194,EMP046,Salary Certificate,Salary Certificate request raised by EMP046.,In Progress,Normal,2024-08-21 14:32:00
+TKT-10195,EMP983,General HR Query,General HR Query request raised by EMP983.,Resolved,Normal,2024-08-20 16:49:00
+TKT-10196,EMP150,Reimbursement,Reimbursement request raised by EMP150.,Closed,Normal,2024-09-09 13:18:00
+TKT-10197,EMP378,Salary Certificate,Salary Certificate request raised by EMP378.,In Progress,Low,2023-09-01 16:52:00
+TKT-10198,EMP856,Benefits Support,Benefits Support request raised by EMP856.,Open,Normal,2023-12-19 11:12:00
+TKT-10199,EMP656,Reimbursement,Reimbursement request raised by EMP656.,Open,Normal,2023-07-13 18:30:00
+TKT-10200,EMP712,General HR Query,General HR Query request raised by EMP712.,Closed,High,2024-12-10 13:54:00
+TKT-10201,EMP593,Benefits Support,Benefits Support request raised by EMP593.,Resolved,High,2023-11-03 14:21:00
+TKT-10202,EMP167,Salary Certificate,Salary Certificate request raised by EMP167.,Closed,Low,2024-05-22 11:58:00
+TKT-10203,EMP004,General HR Query,General HR Query request raised by EMP004.,In Progress,High,2023-08-24 15:39:00
+TKT-10204,EMP219,Reimbursement,Reimbursement request raised by EMP219.,Closed,High,2023-12-06 14:13:00
+TKT-10205,EMP410,Reimbursement,Reimbursement request raised by EMP410.,Open,Normal,2023-01-11 09:22:00
+TKT-10206,EMP031,Benefits Support,Benefits Support request raised by EMP031.,Open,Low,2023-10-25 15:12:00
+TKT-10207,EMP647,Benefits Support,Benefits Support request raised by EMP647.,Resolved,Low,2023-01-31 11:12:00
+TKT-10208,EMP291,Reimbursement,Reimbursement request raised by EMP291.,In Progress,Normal,2023-06-28 13:54:00
+TKT-10209,EMP568,Reimbursement,Reimbursement request raised by EMP568.,In Progress,Low,2023-01-23 10:53:00
+TKT-10210,EMP269,Salary Certificate,Salary Certificate request raised by EMP269.,Open,High,2023-05-21 14:41:00
+TKT-10211,EMP807,Salary Certificate,Salary Certificate request raised by EMP807.,Resolved,Low,2023-11-09 15:15:00
+TKT-10212,EMP379,Payroll Issue,Payroll Issue request raised by EMP379.,In Progress,High,2024-09-30 14:56:00
+TKT-10213,EMP729,Salary Certificate,Salary Certificate request raised by EMP729.,Open,Low,2023-05-14 11:12:00
+TKT-10214,EMP546,Employment Verification,Employment Verification request raised by EMP546.,Resolved,Normal,2024-09-05 14:40:00
+TKT-10215,EMP251,Salary Certificate,Salary Certificate request raised by EMP251.,In Progress,High,2023-10-29 10:20:00
+TKT-10216,EMP254,Salary Certificate,Salary Certificate request raised by EMP254.,Resolved,Low,2024-06-04 17:56:00
+TKT-10217,EMP501,Reimbursement,Reimbursement request raised by EMP501.,Open,Normal,2024-11-10 17:04:00
+TKT-10218,EMP172,Benefits Support,Benefits Support request raised by EMP172.,Closed,High,2024-06-05 13:31:00
+TKT-10219,EMP532,Employment Verification,Employment Verification request raised by EMP532.,In Progress,Normal,2024-12-30 13:33:00
+TKT-10220,EMP712,Employment Verification,Employment Verification request raised by EMP712.,Closed,Normal,2023-10-02 17:25:00
+TKT-10221,EMP654,Benefits Support,Benefits Support request raised by EMP654.,Open,Low,2023-08-13 11:28:00
+TKT-10222,EMP884,Reimbursement,Reimbursement request raised by EMP884.,Closed,Low,2023-11-10 14:56:00
+TKT-10223,EMP387,Benefits Support,Benefits Support request raised by EMP387.,In Progress,Normal,2023-09-18 16:05:00
+TKT-10224,EMP138,Salary Certificate,Salary Certificate request raised by EMP138.,Resolved,Normal,2024-06-15 13:14:00
+TKT-10225,EMP598,Salary Certificate,Salary Certificate request raised by EMP598.,Closed,High,2024-09-28 13:27:00
+TKT-10226,EMP462,Employment Verification,Employment Verification request raised by EMP462.,Closed,Normal,2024-01-12 15:20:00
+TKT-10227,EMP280,Employment Verification,Employment Verification request raised by EMP280.,Open,Low,2024-03-28 11:16:00
+TKT-10228,EMP661,Salary Certificate,Salary Certificate request raised by EMP661.,Resolved,Low,2023-10-29 16:32:00
+TKT-10229,EMP560,General HR Query,General HR Query request raised by EMP560.,Open,Normal,2023-08-22 09:07:00
+TKT-10230,EMP074,Payroll Issue,Payroll Issue request raised by EMP074.,Open,High,2023-07-25 13:12:00
+TKT-10231,EMP692,Payroll Issue,Payroll Issue request raised by EMP692.,Resolved,Normal,2024-11-30 12:12:00
+TKT-10232,EMP723,Benefits Support,Benefits Support request raised by EMP723.,In Progress,High,2024-07-10 12:00:00
+TKT-10233,EMP789,Payroll Issue,Payroll Issue request raised by EMP789.,Resolved,Normal,2024-02-18 14:52:00
+TKT-10234,EMP594,General HR Query,General HR Query request raised by EMP594.,Open,Normal,2024-10-31 16:48:00
+TKT-10235,EMP975,Reimbursement,Reimbursement request raised by EMP975.,Closed,Low,2023-08-21 11:30:00
+TKT-10236,EMP240,Benefits Support,Benefits Support request raised by EMP240.,Closed,High,2024-04-17 13:50:00
+TKT-10237,EMP088,Payroll Issue,Payroll Issue request raised by EMP088.,In Progress,Normal,2024-12-15 14:13:00
+TKT-10238,EMP450,Employment Verification,Employment Verification request raised by EMP450.,Open,Normal,2023-05-23 17:55:00
+TKT-10239,EMP132,Payroll Issue,Payroll Issue request raised by EMP132.,Open,Normal,2024-11-05 13:21:00
+TKT-10240,EMP231,Employment Verification,Employment Verification request raised by EMP231.,Closed,High,2024-02-18 16:19:00
+TKT-10241,EMP334,Benefits Support,Benefits Support request raised by EMP334.,Open,High,2023-02-02 10:09:00
+TKT-10242,EMP976,Payroll Issue,Payroll Issue request raised by EMP976.,Closed,Normal,2023-07-29 14:04:00
+TKT-10243,EMP548,Employment Verification,Employment Verification request raised by EMP548.,In Progress,Normal,2023-04-22 13:36:00
+TKT-10244,EMP986,Employment Verification,Employment Verification request raised by EMP986.,Resolved,Low,2023-06-25 09:43:00
+TKT-10245,EMP567,Reimbursement,Reimbursement request raised by EMP567.,Open,High,2024-09-09 15:01:00
+TKT-10246,EMP192,Reimbursement,Reimbursement request raised by EMP192.,Open,Normal,2023-10-18 11:14:00
+TKT-10247,EMP299,General HR Query,General HR Query request raised by EMP299.,Open,Normal,2023-02-28 13:33:00
+TKT-10248,EMP012,Reimbursement,Reimbursement request raised by EMP012.,Resolved,Normal,2024-02-05 10:07:00
+TKT-10249,EMP133,Benefits Support,Benefits Support request raised by EMP133.,Closed,Normal,2023-03-12 14:57:00
+TKT-10250,EMP887,Reimbursement,Reimbursement request raised by EMP887.,In Progress,Low,2023-11-14 14:52:00
+TKT-10251,EMP727,General HR Query,General HR Query request raised by EMP727.,Closed,Low,2024-09-10 17:19:00
+TKT-10252,EMP602,Reimbursement,Reimbursement request raised by EMP602.,Closed,Normal,2023-07-26 08:09:00
+TKT-10253,EMP457,Salary Certificate,Salary Certificate request raised by EMP457.,Closed,High,2023-09-10 16:21:00
+TKT-10254,EMP933,Benefits Support,Benefits Support request raised by EMP933.,Closed,Normal,2024-04-18 17:02:00
+TKT-10255,EMP755,Salary Certificate,Salary Certificate request raised by EMP755.,Resolved,High,2024-04-12 13:44:00
+TKT-10256,EMP863,General HR Query,General HR Query request raised by EMP863.,Resolved,Normal,2024-09-19 10:26:00
+TKT-10257,EMP256,Reimbursement,Reimbursement request raised by EMP256.,Closed,Normal,2024-01-29 18:11:00
+TKT-10258,EMP716,Benefits Support,Benefits Support request raised by EMP716.,Open,Normal,2024-12-16 08:15:00
+TKT-10259,EMP907,Reimbursement,Reimbursement request raised by EMP907.,Resolved,High,2024-07-04 12:42:00
+TKT-10260,EMP939,Salary Certificate,Salary Certificate request raised by EMP939.,In Progress,Normal,2024-02-26 16:07:00
+TKT-10261,EMP378,Salary Certificate,Salary Certificate request raised by EMP378.,Open,High,2023-11-30 14:28:00
+TKT-10262,EMP169,Payroll Issue,Payroll Issue request raised by EMP169.,In Progress,High,2023-02-15 15:01:00
+TKT-10263,EMP075,General HR Query,General HR Query request raised by EMP075.,Closed,Normal,2023-12-18 14:54:00
+TKT-10264,EMP200,Employment Verification,Employment Verification request raised by EMP200.,Open,Low,2023-09-14 09:45:00
+TKT-10265,EMP940,Reimbursement,Reimbursement request raised by EMP940.,Resolved,High,2024-04-20 15:29:00
+TKT-10266,EMP070,Salary Certificate,Salary Certificate request raised by EMP070.,In Progress,High,2024-03-24 10:30:00
+TKT-10267,EMP841,Payroll Issue,Payroll Issue request raised by EMP841.,In Progress,Low,2023-01-19 17:06:00
+TKT-10268,EMP182,Payroll Issue,Payroll Issue request raised by EMP182.,Open,High,2024-02-05 10:04:00
+TKT-10269,EMP688,Salary Certificate,Salary Certificate request raised by EMP688.,Resolved,Low,2024-03-27 13:11:00
+TKT-10270,EMP222,General HR Query,General HR Query request raised by EMP222.,Open,High,2024-06-29 11:28:00
+TKT-10271,EMP714,Salary Certificate,Salary Certificate request raised by EMP714.,Open,Normal,2024-12-07 12:28:00
+TKT-10272,EMP054,Benefits Support,Benefits Support request raised by EMP054.,Open,Low,2024-01-22 11:59:00
+TKT-10273,EMP256,Payroll Issue,Payroll Issue request raised by EMP256.,In Progress,Low,2023-04-04 08:26:00
+TKT-10274,EMP029,Salary Certificate,Salary Certificate request raised by EMP029.,Resolved,Low,2024-11-27 18:04:00
+TKT-10275,EMP226,Salary Certificate,Salary Certificate request raised by EMP226.,In Progress,High,2023-06-21 08:26:00
+TKT-10276,EMP525,Salary Certificate,Salary Certificate request raised by EMP525.,Resolved,Normal,2024-07-29 18:12:00
+TKT-10277,EMP640,Reimbursement,Reimbursement request raised by EMP640.,Closed,Normal,2023-05-04 11:13:00
+TKT-10278,EMP109,Payroll Issue,Payroll Issue request raised by EMP109.,Resolved,Low,2023-01-16 14:41:00
+TKT-10279,EMP324,Salary Certificate,Salary Certificate request raised by EMP324.,Closed,Low,2024-04-14 11:04:00
+TKT-10280,EMP674,Payroll Issue,Payroll Issue request raised by EMP674.,Resolved,Low,2023-03-10 11:26:00
+TKT-10281,EMP309,Benefits Support,Benefits Support request raised by EMP309.,Closed,Low,2024-12-30 16:50:00
+TKT-10282,EMP945,Benefits Support,Benefits Support request raised by EMP945.,In Progress,Normal,2023-04-08 17:20:00
+TKT-10283,EMP647,General HR Query,General HR Query request raised by EMP647.,Closed,High,2024-12-11 10:21:00
+TKT-10284,EMP180,General HR Query,General HR Query request raised by EMP180.,Resolved,High,2024-05-08 09:21:00
+TKT-10285,EMP019,Benefits Support,Benefits Support request raised by EMP019.,Closed,Normal,2024-06-07 18:47:00
+TKT-10286,EMP239,Benefits Support,Benefits Support request raised by EMP239.,Open,Low,2023-01-22 17:48:00
+TKT-10287,EMP919,Salary Certificate,Salary Certificate request raised by EMP919.,Resolved,Low,2024-03-14 11:39:00
+TKT-10288,EMP082,Salary Certificate,Salary Certificate request raised by EMP082.,In Progress,Normal,2024-05-25 12:12:00
+TKT-10289,EMP156,Employment Verification,Employment Verification request raised by EMP156.,In Progress,High,2023-02-08 11:59:00
+TKT-10290,EMP743,Benefits Support,Benefits Support request raised by EMP743.,Closed,High,2023-12-03 10:17:00
+TKT-10291,EMP326,General HR Query,General HR Query request raised by EMP326.,Open,High,2024-02-29 18:52:00
+TKT-10292,EMP296,Salary Certificate,Salary Certificate request raised by EMP296.,In Progress,High,2023-12-06 13:15:00
+TKT-10293,EMP211,Benefits Support,Benefits Support request raised by EMP211.,Open,High,2023-09-12 18:44:00
+TKT-10294,EMP737,Reimbursement,Reimbursement request raised by EMP737.,Closed,High,2023-11-26 10:28:00
+TKT-10295,EMP645,Salary Certificate,Salary Certificate request raised by EMP645.,Open,Normal,2023-03-13 11:03:00
+TKT-10296,EMP650,Reimbursement,Reimbursement request raised by EMP650.,In Progress,Low,2023-04-04 10:37:00
+TKT-10297,EMP563,Reimbursement,Reimbursement request raised by EMP563.,In Progress,High,2023-03-22 14:46:00
+TKT-10298,EMP479,Payroll Issue,Payroll Issue request raised by EMP479.,In Progress,High,2023-07-22 11:27:00
+TKT-10299,EMP181,Benefits Support,Benefits Support request raised by EMP181.,In Progress,Normal,2023-10-20 17:28:00
+TKT-10300,EMP991,General HR Query,General HR Query request raised by EMP991.,In Progress,Normal,2024-05-07 09:23:00
