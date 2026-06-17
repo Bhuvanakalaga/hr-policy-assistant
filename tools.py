@@ -7,6 +7,7 @@
 from langchain_core.tools import tool
 from retriever import search_policy_chunks
 import employee_db
+import confirmation_manager
 
 
 # Current employee context
@@ -24,32 +25,6 @@ def _get_current_employee_id() -> str:
     if not _current_employee_id:
         raise RuntimeError("No employee is currently logged in.")
     return _current_employee_id
-
-
-# Pending action state (simple session-based confirmation tracking)
-#
-# Used so confirmation ("yes" / "ok" / "proceed" / "go ahead") reliably
-# triggers the correct create_hr_ticket / create_grievance call without
-# relying solely on the LLM remembering what it asked. Keyed by employee_id.
-#
-# Each pending action is: {"type": "ticket" | "grievance", "issue": str}
-
-_pending_actions: dict[str, dict] = {}
-
-
-def set_pending_action(emp_id: str, action_type: str, issue: str) -> None:
-    """Record a pending action ('ticket' or 'grievance') awaiting confirmation."""
-    _pending_actions[emp_id.upper().strip()] = {"type": action_type, "issue": issue}
-
-
-def get_pending_action(emp_id: str) -> dict | None:
-    """Return the pending action for emp_id, or None if there isn't one."""
-    return _pending_actions.get(emp_id.upper().strip())
-
-
-def clear_pending_action(emp_id: str) -> None:
-    """Clear any pending action for emp_id."""
-    _pending_actions.pop(emp_id.upper().strip(), None)
 
 
 # 1. search_policy
@@ -133,10 +108,7 @@ def get_leave_balance(_: str = "") -> str:
 @tool
 def create_hr_ticket(issue: str) -> str:
     """
-    Create an HR support ticket for the logged-in employee.
-
-    Use ONLY after the employee has explicitly confirmed they want a ticket
-    created (e.g. they said "yes", "ok", "proceed", "go ahead").
+    Initiate an HR support ticket request for the logged-in employee.
 
     Use for:
     - salary certificate requests
@@ -149,21 +121,35 @@ def create_hr_ticket(issue: str) -> str:
     Do NOT use for harassment, discrimination, bullying, or grievances -
     use create_grievance instead.
 
+    Calling this tool does NOT immediately create a ticket. It stores the
+    request as a pending action and returns a confirmation question. The
+    ticket is only created once the employee explicitly confirms.
+
     Input: a description of the employee's support request.
     """
     emp_id = _get_current_employee_id()
 
+    # Check for a duplicate open ticket before asking for confirmation
     is_duplicate, dup_message = employee_db.check_duplicate_ticket(emp_id, issue)
     if is_duplicate:
-        clear_pending_action(emp_id)
         return (
             f"I can't create a new ticket for this. {dup_message} "
             f"Please wait for that ticket to be resolved, or let me know "
             f"if this is a different issue."
         )
 
+    # Store as pending - actual creation happens in agent.py after confirmation
+    confirmation_manager.set_pending("ticket", issue)
+    return "I can create an HR support ticket for this. Would you like me to proceed?"
+
+
+def _execute_ticket_creation(issue: str) -> str:
+    """
+    Create the HR support ticket. Called by agent.py after the employee
+    confirms. This is NOT a LangChain tool - it is internal application logic.
+    """
+    emp_id = _get_current_employee_id()
     result = employee_db.create_ticket(emp_id, issue)
-    clear_pending_action(emp_id)
     return (
         f"HR Support Ticket Created\n\n"
         f"Ticket ID    : {result['ticket_id']}\n"
@@ -233,10 +219,7 @@ def list_my_tickets(_: str = "") -> str:
 @tool
 def create_grievance(issue: str) -> str:
     """
-    Escalate a formal HR grievance for the logged-in employee.
-
-    Use ONLY after the employee has explicitly confirmed they want to
-    escalate (e.g. they said "yes", "ok", "proceed", "go ahead").
+    Initiate a formal HR grievance for the logged-in employee.
 
     Use for:
     - harassment, sexual harassment
@@ -246,21 +229,38 @@ def create_grievance(issue: str) -> str:
 
     Do NOT use for general service requests - use create_hr_ticket instead.
 
+    Calling this tool does NOT immediately escalate a grievance. It stores
+    the request as a pending action and returns a confirmation question. The
+    grievance is only created once the employee explicitly confirms.
+
     Input: a description of the grievance or complaint.
     """
     emp_id = _get_current_employee_id()
 
+    # Check for a duplicate active grievance before asking for confirmation
     is_duplicate, dup_message = employee_db.check_duplicate_grievance(emp_id, issue)
     if is_duplicate:
-        clear_pending_action(emp_id)
         return (
             f"I can't escalate this as a new grievance. {dup_message} "
             f"It is already being handled. Please let me know if this is a "
             f"different matter."
         )
 
+    # Store as pending - actual creation happens in agent.py after confirmation
+    confirmation_manager.set_pending("grievance", issue)
+    return (
+        "I'm sorry to hear that. I can escalate this as a formal HR grievance. "
+        "Would you like me to proceed?"
+    )
+
+
+def _execute_grievance_creation(issue: str) -> str:
+    """
+    Create the formal grievance. Called by agent.py after the employee
+    confirms. This is NOT a LangChain tool - it is internal application logic.
+    """
+    emp_id = _get_current_employee_id()
     result = employee_db.create_grievance_record(emp_id, issue)
-    clear_pending_action(emp_id)
     return (
         f"Formal HR Grievance Escalated\n\n"
         f"Case ID      : {result['case_id']}\n"
