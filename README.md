@@ -1,6 +1,6 @@
 # HR Policy Assistant
 
-A conversational HR chatbot built with **Python**, **Streamlit**, **LangGraph**, **LangChain**, **FAISS**, **HuggingFace Embeddings**, **SQLite**, and **Groq**.
+A conversational HR chatbot built with **Python**, **Streamlit**, **LangGraph**, **LangChain**, **RAG (FAISS)**, **HuggingFace Embeddings**, **SQLite**, and **Groq API**. It helps employees access HR policies, manage leave requests, raise tickets, submit grievances, and view employee information through a conversational interface.
 
 ---
 
@@ -9,15 +9,15 @@ A conversational HR chatbot built with **Python**, **Streamlit**, **LangGraph**,
 | Feature | Details |
 |---|---|
 | Login | Data-driven login from `employees.csv`; chatbot auto-knows the logged-in employee |
-| RAG Pipeline | Chunks `policy.txt` → embeds with `all-MiniLM-L6-v2` → FAISS → top-k retrieval |
-| Guardrails | Blocks prompt injection, extraction, unauthorized access, and jailbreak attempts |
+| RAG Pipeline | Chunks `policy.txt` → embeds with `all-MiniLM-L6-v2` → FAISS with MMR retrieval |
+| Guardrails | Input validation and safety checks before the agent is invoked |
 | 11 LangChain Tools | See Tools section below |
 | Leave Validation | Date range, leave balance, and overlap checks before any record is created |
 | Duplicate Prevention | Blocks duplicate open tickets and active grievances |
 | Confirmation Flow | Deterministic application-driven confirmation via `confirmation_manager.py` |
 | Audit Logging | Every turn logged to `audit_logs` table in `hr.db` |
 | Dynamic Date | Today's date injected into system prompt on every request |
-| LLM | `openai/gpt-oss-120b` via Groq API |
+| LLM | Groq tool calling LLM |
 
 ---
 
@@ -29,23 +29,22 @@ hr_assistant/
 ├── agent.py                  # LangGraph ReAct agent + confirmation flow
 ├── tools.py                  # 11 LangChain tools
 ├── confirmation_manager.py   # Ticket/grievance confirmation state (st.session_state)
-├── guardrails.py             # Pre-agent input safety checks
+├── guardrails.py             # Input validation and safety checks
 ├── prompts.py                # Dynamic system prompt (date-injected)
 ├── employee_db.py            # All database read/write + validation helpers
 ├── database.py               # SQLite connection helper
-├── retriever.py              # FAISS vector store loader and search
+├── retriever.py              # FAISS vector store loader and MMR search
 ├── create_vector_db.py       # One-time script: builds FAISS index from policy.txt
 ├── import_data.py            # One-time script: imports CSVs into hr.db
-├── validators.py             # Basic input validation helpers
 ├── requirements.txt
 ├── .env
 │
 └── data/
     ├── policy.txt            # HR policy document (source for RAG)
-    ├── employees.csv         # Employee master (source of truth)
-    ├── tickets.csv           # HR support tickets
-    ├── leave_requests.csv    # Leave requests
-    ├── grievances.csv        # Formal grievances
+    ├── employees.csv         # Employee master data, login credentials, leave balances
+    ├── tickets.csv           # HR support tickets (seed data)
+    ├── leave_requests.csv    # Leave requests (seed data)
+    ├── grievances.csv        # Formal grievances (seed data)
     ├── audit_logs.csv        # Audit log seed data
     ├── hr.db                 # SQLite database (built by import_data.py)
     └── faiss_index/          # FAISS index (built by create_vector_db.py)
@@ -118,63 +117,6 @@ After login the chatbot automatically knows the employee's ID, name, department,
 
 ---
 
-## Confirmation Flow
-
-Ticket and grievance creation use a **deterministic, application-driven confirmation flow** — the system never inspects or parses the LLM's own generated text to determine workflow state.
-
-```
-Employee: "I need a salary certificate."
-    │
-    ▼
-LLM calls create_hr_ticket("salary certificate request")
-    │
-    ▼
-create_hr_ticket checks for duplicates
-  → if duplicate: returns error message, no record created
-  → if clean: calls confirmation_manager.set_pending("ticket", issue)
-              returns "I can create an HR support ticket for this.
-                       Would you like me to proceed?"
-    │
-    ▼                               ▼
-Employee: "yes" / "ok" / ...     Employee: "no" / "cancel" / ...
-    │                               │
-    ▼                               ▼
-agent.py reads confirmation_manager.get_pending()
-Calls _execute_ticket_creation(issue)    confirmation_manager.clear_pending()
-Creates ticket in hr.db                 Returns cancellation message
-confirmation_manager.clear_pending()
-Returns ticket details
-```
-
-The same flow applies to `create_grievance` / `_execute_grievance_creation`.
-
-`confirmation_manager.py` stores state in `st.session_state["pending_action"]`, scoped to the logged-in user's browser session.
-
----
-
-## Leave Request Validation
-
-`create_leave_request` runs three checks in order before writing any record:
-
-1. **Date validation** — both dates present, valid `YYYY-MM-DD` format, end date ≥ start date.
-2. **Balance check** — requested days must not exceed available leave balance.
-3. **Overlap check** — no existing Pending or Approved leave request can overlap the requested range.
-
-If any check fails, a clear message is returned and **no database record is created**.
-
----
-
-## Guardrails
-
-`guardrails.py` runs before every agent invocation and blocks:
-
-- **Prompt injection** — "ignore previous instructions", "act as another assistant", etc.
-- **Prompt extraction** — "show system prompt", "reveal chain of thought", etc.
-- **Unauthorized access** — "show profile of EMP001", "dump the database", etc.
-- **Jailbreak** — "override instructions", "bypass security", "developer mode", etc.
-
----
-
 ## Architecture
 
 ```
@@ -185,14 +127,14 @@ confirmation_manager.py   ←── is this a confirmation/denial for a pending 
         │  YES → execute directly (agent never invoked)
         │  NO  ↓
         ▼
-guardrails.py             ←── block unsafe input before agent runs
+guardrails.py             ←── input validation + safety checks before agent runs
         │
         ▼
 agent.py → LangGraph ReAct → Groq LLM
         │                         │
         │                    picks tool(s)
         │
-        ├── search_policy         → FAISS (retriever.py)
+        ├── search_policy         → FAISS MMR retrieval (retriever.py)
         ├── get_employee_profile  → employees.csv
         ├── get_leave_balance     → employees.csv
         ├── create_leave_request  → validates → hr.db: leave_requests
@@ -216,7 +158,7 @@ audit_logs table (hr.db)  ←── every turn logged
 - **Streamlit** — Chat UI with login
 - **LangGraph** — ReAct agent orchestration
 - **LangChain + LangChain Groq** — Tool framework and LLM integration
-- **FAISS** — Vector similarity search
+- **FAISS** — Vector similarity search with MMR retrieval
 - **HuggingFace Embeddings** — `sentence-transformers/all-MiniLM-L6-v2`
 - **SQLite** — Tickets, grievances, leave requests, audit logs
 - **Groq** — Fast LLM inference

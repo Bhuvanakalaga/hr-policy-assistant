@@ -35,21 +35,6 @@ def get_employee_by_username(username: str) -> dict | None:
         return None
     return row.iloc[0].to_dict()
 
-
-def validate_employee(emp_id: str) -> dict:
-    """
-    Check whether an employee ID exists.
-    Returns {"valid": True/False, "message": str}
-    """
-    df = _get_df()
-    emp_id = emp_id.upper().strip()
-    row = df[df["emp_id"] == emp_id]
-    if row.empty:
-        return {"valid": False, "message": f"Employee {emp_id} not found in the system."}
-    status = row.iloc[0]["employment_status"]
-    return {"valid": True, "message": f"Employee {emp_id} is a valid employee. Status: {status}"}
-
-
 def get_employee_profile(emp_id: str) -> dict:
     """
     Return profile fields for a given employee ID.

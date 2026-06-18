@@ -13,7 +13,7 @@ import employee_db
 
 load_dotenv()
 
-MODEL_NAME = "openai/gpt-oss-120b"
+MODEL_NAME = "meta-llama/llama-4-scout-17b-16e-instruct"
 
 # Agent built once per process
 _agent = None
@@ -59,7 +59,7 @@ def run_agent(user_input: str, chat_history: list, employee_id: str) -> dict:
         {"answer": str, "tools_used": list[str]}
     """
 
-    # ── Guardrails ────────────────────────────────────────────────────────────
+    # Guardrails 
     is_safe, blocked_response = check_input(user_input)
     if not is_safe:
         employee_db.log_audit_event(
@@ -74,7 +74,7 @@ def run_agent(user_input: str, chat_history: list, employee_id: str) -> dict:
     # Make logged-in employee available to all tools
     set_current_employee(employee_id)
 
-    # ── Confirmation flow (driven by confirmation_manager, not LLM text) ──────
+    # Confirmation flow (driven by confirmation_manager, not LLM text)
     pending = confirmation_manager.get_pending()
 
     if pending:
@@ -113,7 +113,7 @@ def run_agent(user_input: str, chat_history: list, employee_id: str) -> dict:
                 "tools_used": [],
             }
 
-    # ── Agent invocation ──────────────────────────────────────────────────────
+    # Agent invocation
     agent    = _get_agent()
     messages = [*chat_history, HumanMessage(content=user_input)]
 
@@ -159,7 +159,7 @@ def run_agent(user_input: str, chat_history: list, employee_id: str) -> dict:
             )
             return {"answer": f"Sorry, I encountered an error: {e}", "tools_used": []}
 
-    # ── Extract answer and tool names ─────────────────────────────────────────
+    # Extract answer and tool names
     answer     = result["messages"][-1].content
     tools_used = []
     for msg in result["messages"]:
@@ -167,7 +167,7 @@ def run_agent(user_input: str, chat_history: list, employee_id: str) -> dict:
         if name and name not in tools_used:
             tools_used.append(name)
 
-    # ── Audit log ─────────────────────────────────────────────────────────────
+    # Audit log
     intent = f"Intent.TOOLS({','.join(tools_used)})" if tools_used else "Intent.GENERAL"
     employee_db.log_audit_event(
         emp_id=employee_id,

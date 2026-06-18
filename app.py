@@ -2,6 +2,7 @@ import streamlit as st
 from langchain_core.messages import HumanMessage, AIMessage
 from agent import run_agent
 import employee_db
+import confirmation_manager
 
 st.set_page_config(
     page_title="HR Policy Assistant",
@@ -126,9 +127,11 @@ def show_chat():
         if st.button("🗑️ Clear Chat", use_container_width=True):
             st.session_state.chat_history = []
             st.session_state.messages     = []
+            confirmation_manager.clear_pending()
             st.rerun()
 
         if st.button("🚪 Log Out", use_container_width=True):
+            confirmation_manager.clear_pending()
             for key in ["logged_in", "employee_id", "employee_name", "department",
                         "role", "chat_history", "messages"]:
                 st.session_state.pop(key, None)
@@ -137,16 +140,16 @@ def show_chat():
         st.divider()
         st.markdown("**What you can ask:**")
         st.markdown(
-            "- Leave / WFH / Attendance policy\n"
-            "- Resignation & notice period\n"
-            "- Benefits, salary, reimbursements\n"
-            "- POSH / Code of conduct\n"
-            "- My profile / my manager\n"
-            "- My leave balance / leave history\n"
-            "- Apply for leave\n"
-            "- Raise or check an HR ticket\n"
-            "- Raise or check a grievance\n"
-            "- HR contact details"
+            "- What is the work-from-home (WFH) policy?\n"
+            "- How many leave days do I have remaining?\n"
+            "-  I want to apply for leave from today until next Friday\n"
+            "- My salary has not been credited.\n"
+            "-Show my profile details\n"
+            "-Check the status of my ticket.\n"
+            "- Show my leave history.\n"
+            "- I am resigning today. Can I adjust my leave balance against my notice period?\n"
+            "- Show my open HR tickets.\n"
+            "- My manager is harassing me. I want to file a grievance"
         )
 
 
