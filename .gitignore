@@ -23,10 +23,6 @@ Thumbs.db
 # Database
 hr.db
 
-# FAISS
-data/faiss_index/
-*.faiss
-*.pkl
 
 # Logs
 *.log
