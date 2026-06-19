@@ -21,7 +21,7 @@ __pycache__/
 Thumbs.db
 
 # Database
-hr.db
+data/hr.db
 
 
 # Logs
