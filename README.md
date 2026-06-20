@@ -1,5 +1,7 @@
 # HR Policy Assistant
 
+🔗 **Live Demo:** [hr-policy-assistant-qlq9ur2ph9rgnd2xdttnwj.streamlit.app](https://hr-policy-assistant-qlq9ur2ph9rgnd2xdttnwj.streamlit.app/)
+
 A conversational HR chatbot built with **Python**, **Streamlit**, **LangGraph**, **LangChain**, **RAG (FAISS)**, **HuggingFace Embeddings**, **SQLite**, and **Groq API**. It helps employees access HR policies, manage leave requests, raise tickets, submit grievances, and view employee information through a conversational interface.
 
 ---
